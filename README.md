@@ -1,5 +1,5 @@
  ### 🤓 | Welcome! I'm Nick: 
-💻 software engineering student | 🚀 aerospace enthusiast | 🎵 music enjoyer | 🐶 dog lover (<- that's Ollie) | 🕹️ gaming gamer 
+💻 software engineering student ■ 🚀 aerospace enthusiast ■ 🎵 music enjoyer ■ 🐶 dog lover (<- that's Ollie) ■ 🕹️ gaming gamer 
 
 ![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
 
