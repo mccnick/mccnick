@@ -7,7 +7,7 @@
 - gamer 🎮
 
  ### 😎 About me: 
-I went back to school in my late twenties after about eight years in the [finance](https://user-images.githubusercontent.com/91184284/232307962-e49c14f1-5fa5-451e-a068-d00e0ad2bc82.png) industry. I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both above and below the Karman line. My first two semesters I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester.
+I went back to school in my late twenties after about eight years in the finance industry. I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both above and below the Karman line. My first two semesters I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester.
 
  ### 🌱 I am currently working on: 
 - Learning Data Structures and Algorithms, both in class and on my own
@@ -34,4 +34,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![finance](https://user-images.githubusercontent.com/91184284/232307962-e49c14f1-5fa5-451e-a068-d00e0ad2bc82.png)
 -->
