@@ -1,4 +1,4 @@
- ### 🤓 Welcome! I'm Nick:
+ ### 🤓 Welcome! I'm Nick: [LinkedIn](https://www.linkedin.com/in/mccnick/)
 💻 software engineering student | 🚀 aerospace enthusiast | 🎵 music enjoyer | 🐶 dog lover (<- that's Ollie) | 🕹️ gamer 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900)
