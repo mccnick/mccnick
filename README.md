@@ -16,7 +16,7 @@ I went back to school in my late twenties after about eight years in the finance
 - Building my first app to help ISU students
 
 ### 🚧 Here are some direct links to visuals to projects I've already completed: 
-- ![TicTacToe](https://github.com/mccnick/TicTacToe))
+- [TicTacToe](https://github.com/mccnick/TicTacToe))
 - adf
 - adf
 - adf
