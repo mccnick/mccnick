@@ -3,7 +3,7 @@
 
 (<- and that's Ollie 🐶)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=800)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900)
 
  ### 😎 About me: 
 I went back to school in my late twenties after about eight years in the finance industry. I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both above and below the Karman line. My first two semesters I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester.
