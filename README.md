@@ -8,7 +8,7 @@
  ### 🌱 · I am currently working on: 
 > Learning Data Structures and Algorithms, both in class and on my own · [HackerRank](https://www.hackerrank.com/nickmcc) [& My Solutions](https://github.com/mccnick/HackerRank-Problems)
 > 
-> Developing my own 3D outer space portfolio inspired by three.JS
+> Developing my own 3D outer space portfolio inspired by [three.JS](https://threejs.org/)
 >
 > Building an app to help Iowa State students
 > 
