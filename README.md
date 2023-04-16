@@ -26,6 +26,7 @@ _______
 
 _______
  ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)
+ ![Most Committed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mccnick&layout=compact&theme=theme)
 
 
 <!--
