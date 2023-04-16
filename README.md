@@ -26,7 +26,7 @@ _______
 
 _______
  ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)
- ![Most Committed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mccnick&layout=compact&theme=theme)
+
 
 
 <!--
@@ -42,7 +42,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+// github most used programming languages chart (too much jupyter notebook)
+![Most Committed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mccnick&layout=compact&theme=theme)
+
+// spotify
 ![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3)
+
 ![finance](https://user-images.githubusercontent.com/91184284/232307962-e49c14f1-5fa5-451e-a068-d00e0ad2bc82.png)
 -->
