@@ -15,6 +15,7 @@ I went back to school in my late twenties after about eight years in the finance
 - Learning Data Structures and Algorithms, both in class and on my own
 - Developing my own 3D outer space portfolio inspired by three.JS
 - Building my first app to help ISU students
+- Contributing to open source projects
 
 ### 🚧 Here are some direct links to visuals to projects I've already completed: 
 - [TicTacToe](https://github.com/mccnick/TicTacToe)
