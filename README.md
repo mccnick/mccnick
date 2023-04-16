@@ -18,7 +18,7 @@ I went back to school in my late twenties after about eight years in the finance
 - adf
 - adf
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3)
 
 
 <!--
