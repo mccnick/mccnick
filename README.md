@@ -25,7 +25,7 @@ _______
 > · Contributing to open source projects
 
 _______
- ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:)
+ ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)
 
 
 <!--
