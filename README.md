@@ -1,6 +1,6 @@
  ### 💁🏻‍♂️ Hello, welcome to my GitHub! 
 
- ### 🤓 I'm Nick: 
+ ### 🤓 I'm Nick (<- and that's Ollie 🐶) 
 - software engineering student 🖳
 - aerospace enthusiast 🚀
 - music enjoyer 🎵
