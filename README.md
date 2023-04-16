@@ -18,6 +18,8 @@ I went back to school in my late twenties after about eight years in the finance
 - adf
 - adf
 
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count={count})
+
 <!--
 **mccnick/mccnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
