@@ -1,5 +1,5 @@
  ### 🤓 | Welcome! I'm Nick: 
-💻 software engineering student | 🚀 aerospace enthusiast | 🎵 music enjoyer | 🐶 dog lover (<- that's Ollie) | 🕹️ gamer 
+💻 software engineering student | 🚀 aerospace enthusiast | 🎵 music enjoyer | 🐶 dog lover (<- that's Ollie) | 🕹️ gaming gamer 
 
  ### 😎 | About me: [LinkedIn](https://www.linkedin.com/in/mccnick/)
 I went back to school in my late twenties after about eight years in the finance industry. I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both above and below the Karman line. My first two semesters I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester.
