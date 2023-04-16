@@ -7,9 +7,9 @@ _______
 <table>
 <tbody>
 <td align="center">
-<img width="2000" height="0"><br>
+<img width="900" height="0"><br>
 <sub>### Contact me: [LinkedIn 🤝](https://www.linkedin.com/in/mccnick/) · [email ✉️](mailto:nickmcc@iastate.edu)</sub><br>
-<img width="2000" height="0">
+<img width="900" height="0">
 </td>
 </tbody>
 </table>
