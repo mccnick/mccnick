@@ -1,7 +1,5 @@
- ### 🤓 Welcome! I'm Nick:
+ ### 🤓 Welcome! I'm Nick: (<- and that's Ollie 🐶)
 🖳 software engineering student | 🚀 aerospace enthusiast | 🎵 music enjoyer | 🐶 dog lover | 🎮 gamer 
-
-(<- and that's Ollie 🐶)
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900)
 
