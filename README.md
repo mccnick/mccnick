@@ -23,12 +23,11 @@ _______
 > · Building an app to help Iowa State students
 >
 > · Contributing to open source projects
-
-![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)
 _______
 ![Need a laugh?](https://readme-jokes.vercel.app/api "click me")
 ![Most Committed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mccnick&layout=compact&theme=blue-green)
 >this is a bit skewed due to the code in jupyter notebook; I have about 50/50 Python/Java experience.
+![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)
 
 
 
