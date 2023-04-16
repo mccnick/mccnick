@@ -1,5 +1,6 @@
  ### 🤓 Welcome! I'm Nick:
  (<- and that's Ollie 🐶)
+ 
 software engineering student 🖳 | aerospace enthusiast 🚀 | music enjoyer 🎵 | dog lover 🐶 | gamer 🎮
 
  ### 😎 About me: 
