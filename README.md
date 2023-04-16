@@ -4,7 +4,7 @@
 ![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
 
  ### 😎 | About me: [LinkedIn](https://www.linkedin.com/in/mccnick/)
-I went back to school in my late twenties after about eight years in the finance industry. I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both above and below the Karman line. My first two semesters I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester.
+I went back to school in my late twenties after about eight years in the finance industry. I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both above and below the Karman line. My first two semesters, while working full-time, I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester. I've been working as a SWE Intern @ John Deere since July 2022.
 
  ### 🌱 | I am currently working on: 
 - Learning Data Structures and Algorithms, both in class and on my own
