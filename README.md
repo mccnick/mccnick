@@ -1,4 +1,4 @@
- ### 💁🏻‍♂️ Hello, welcome.
+ ### Hello, welcome.
 
  ### 🤓 I'm Nick:
  (<- and that's Ollie 🐶)
