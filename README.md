@@ -17,7 +17,7 @@ I went back to school in my late twenties after about eight years in the finance
 - Building an app to help Iowa State students
 - Contributing to open source projects
 
-### 🚧 Direct links to visuals to projects I've already completed: 
+### 🚧 Direct links to visuals of projects I've already completed: 
 - [TicTacToe](https://github.com/mccnick/TicTacToe)
 - [Aerospace Weight, Balance & Density Altitude Calculator](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf)
 - adf
