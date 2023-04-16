@@ -24,7 +24,7 @@ _______
 >
 > · Contributing to open source projects
 
-<div align="center"> ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square) </div>
+![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)
 _______
 ![Need a laugh?](https://readme-jokes.vercel.app/api "click me")
 
