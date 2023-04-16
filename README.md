@@ -2,8 +2,6 @@
 >💻 software engineer · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (⇦ that's Ollie) · 🕹️ gaming gamer
 >> [🤝 LinkedIn](https://www.linkedin.com/in/mccnick/) · [✉️ email](mailto:nickmcc@iastate.edu)
 
-_______
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,c,cpp,js,react,threejs,vue,nodejs,html,css,git,latex)](https://skillicons.dev)
 
 _______
 #### 🧩 · Visuals of projects I've already completed! 
@@ -11,6 +9,10 @@ _______
 > · [SpaceX Falcon 9 Simulation](https://user-images.githubusercontent.com/91184284/232335618-21af470a-1634-4918-bc83-1c0c69ed4133.gif) / [Python](https://github.com/mccnick/AERE-160/blob/main/SpaceXRocketSimulation.py "SpaceX Falcon 9 Simulation source code")
 > · [TicTacToe](https://user-images.githubusercontent.com/91184284/229703311-da007f9a-ea7c-4629-a577-32b01e902073.gif) / [Java](https://github.com/mccnick/TicTacToe/blob/main/TicTacToe/src/zzzTicTacToe/TicTacToe.java "TicTacToe source code")
 > · [Aerospace Calculator](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf) / [MATLAB](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/DensityAltCalc.m "Aerospace Calculator source code") / [report](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf "100% score on this project report")
+
+_______
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,c,cpp,js,react,threejs,vue,nodejs,html,css,git,latex)](https://skillicons.dev)
+
 _______
 ![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
 
