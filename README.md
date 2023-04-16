@@ -1,10 +1,11 @@
  ### 👋 · Welcome! I'm Nick
->💻 software engineering student · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (<- that's Ollie) · 🕹️ gamer 
-
+>💻 software engineering student · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (<- that's Ollie) · 🕹️ gamer
+_______
 ![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
+_______
  ### 🤓 · About me / *Storytime* · [LinkedIn 🤝](https://www.linkedin.com/in/mccnick/)
 >I went back to school in my late twenties after about eight years in the finance industry (Toyota & Wells Fargo). I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both above and below the Karman line. My first two semesters, [while working full-time](https://www.registrar.iastate.edu/sites/default/files/uploads/info/DeansListF21Updated418.pdf "Dean's List"), I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester. I'm currently a SWE Intern @ John Deere.
-
+_______
  ### 🌱 · I am currently working on
 > Learning Data Structures and Algorithms, both in class and on my own · [HackerRank](https://www.hackerrank.com/nickmcc) [& My Solutions](https://github.com/mccnick/HackerRank-Problems)
 > 
@@ -13,7 +14,7 @@
 > Building an app to help Iowa State students
 > 
 > Contributing to open source projects
-
+_______
 ### 🧩 · Direct links to visuals of projects I've already completed 
 >[TicTacToe](https://github.com/mccnick/TicTacToe) · [Aerospace Calculator](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf) · adf · adf
 
