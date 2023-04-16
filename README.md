@@ -8,7 +8,7 @@ _______
 >I went back to school in my late twenties after about eight years in the finance industry (Toyota & Wells Fargo). I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both above and below the Karman line. My first two semesters, [while working full-time](https://www.registrar.iastate.edu/sites/default/files/uploads/info/DeansListF21Updated418.pdf "Dean's List"), I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester. I'm currently a SWE Intern @ John Deere.
 _______
 
-#### 🧩 · Direct links to visuals of projects I've already completed 
+#### 🧩 · Visuals of projects I've already completed! 
 > [2048 game](https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif) · [TicTacToe](https://user-images.githubusercontent.com/91184284/229703311-da007f9a-ea7c-4629-a577-32b01e902073.gif) · [Aerospace Calculator](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf) · adf · adf
 _______
 
