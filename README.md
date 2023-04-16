@@ -1,6 +1,6 @@
 ### 👋 · Welcome! I'm Nick
 >💻 software engineer · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (⇦ that's Ollie) · 🕹️ gaming gamer
->> [🤝 LinkedIn](https://www.linkedin.com/in/mccnick/) · [✉️ email](mailto:nickmcc@iastate.edu) · ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:)
+>> [🤝 LinkedIn](https://www.linkedin.com/in/mccnick/) · [✉️ email](mailto:nickmcc@iastate.edu)
 _______
 ![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
 _______
@@ -24,6 +24,8 @@ _______
 >
 > · Contributing to open source projects
 
+_______
+ ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:)
 
 
 <!--
