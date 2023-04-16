@@ -6,13 +6,14 @@ _______
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,c,cpp,js,react,threejs,vue,nodejs,html,css,git,latex,aws)](https://skillicons.dev)
 
 _______
-![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
-_______
 #### 🧩 · Visuals of projects I've already completed! 
 > [2048 game](https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif) / [Java](https://github.com/mccnick/COMS-227/blob/main/HW3/HW03/src/hw3/ConnectGame.java "2048 game source code")
 > · [SpaceX Falcon 9 Simulation](https://user-images.githubusercontent.com/91184284/232335618-21af470a-1634-4918-bc83-1c0c69ed4133.gif) / [Python](https://github.com/mccnick/AERE-160/blob/main/SpaceXRocketSimulation.py "SpaceX Falcon 9 Simulation source code")
 > · [TicTacToe](https://user-images.githubusercontent.com/91184284/229703311-da007f9a-ea7c-4629-a577-32b01e902073.gif) / [Java](https://github.com/mccnick/TicTacToe/blob/main/TicTacToe/src/zzzTicTacToe/TicTacToe.java "TicTacToe source code")
 > · [Aerospace Calculator](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf) / [MATLAB](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/DensityAltCalc.m "Aerospace Calculator source code") / [report](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf "100% score on this project report")
+_______
+![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
+
 
 
 _______
