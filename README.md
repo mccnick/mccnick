@@ -3,7 +3,7 @@
 >> [🤝 LinkedIn](https://www.linkedin.com/in/mccnick/) · [✉️ email](mailto:nickmcc@iastate.edu)
 
 _______
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,c,cpp,js,react,threejs,vue,nodejs,html,css,git,latex,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,c,cpp,js,react,threejs,vue,nodejs,html,css,git,latex)](https://skillicons.dev)
 
 _______
 #### 🧩 · Visuals of projects I've already completed! 
