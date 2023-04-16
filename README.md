@@ -9,7 +9,7 @@ _______
 _______
 
 #### 🧩 · Direct links to visuals of projects I've already completed 
-> [2048 game](https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif) · [TicTacToe]([https://github.com/mccnick/TicTacToe](https://user-images.githubusercontent.com/91184284/229703311-da007f9a-ea7c-4629-a577-32b01e902073.gif)) · [Aerospace Calculator](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf) · adf · adf
+> [2048 game](https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif) · [TicTacToe](https://user-images.githubusercontent.com/91184284/229703311-da007f9a-ea7c-4629-a577-32b01e902073.gif) · [Aerospace Calculator](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf) · adf · adf
 _______
 
 #### 🌱 · I am currently working on
