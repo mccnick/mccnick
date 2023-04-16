@@ -7,7 +7,7 @@
 I went back to school in my late twenties after about eight years in the finance industry. I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both above and below the Karman line. My first two semesters, while working full-time, I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester. I've been working as a Software Engineering Intern @ John Deere since July 2022.
 
  ### 🌱 · I am currently working on: 
-- Learning Data Structures and Algorithms, both in class and on my own · [HackerRank](https://www.hackerrank.com/nickmcc) [& Challenges](https://github.com/mccnick/HackerRank-Problems)
+- Learning Data Structures and Algorithms, both in class and on my own · [HackerRank](https://www.hackerrank.com/nickmcc) [& My Solutions](https://github.com/mccnick/HackerRank-Problems)
 - Developing my own 3D outer space portfolio inspired by three.JS
 - Building an app to help Iowa State students
 - Contributing to open source projects
