@@ -1,7 +1,7 @@
 ### Hello, welcome to my GitHub! 💁🏻‍♂️
 
 ### I'm Nick. I am a:
-- software engineering student 🤓
+- software engineering student 🖳
 - space enthusiast 🚀
 - music enjoyer 🎵
 - dog lover 🐶
