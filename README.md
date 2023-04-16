@@ -1,5 +1,5 @@
-<div dir="rtl"> [LinkedIn 🤝](https://www.linkedin.com/in/mccnick/) · [email ✉️](mailto:nickmcc@iastate.edu) </div>
-
+<p align="right"> [LinkedIn 🤝](https://www.linkedin.com/in/mccnick/) · [email ✉️](mailto:nickmcc@iastate.edu) </p>
+_______
  ### 👋 · Welcome! I'm Nick
 >💻 software engineer · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (⇦ that's Ollie) · 🕹️ gaming gamer
 _______
