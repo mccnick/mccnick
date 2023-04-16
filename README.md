@@ -3,6 +3,8 @@
 
 (<- and that's Ollie 🐶)
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3)
+
  ### 😎 About me: 
 I went back to school in my late twenties after about eight years in the finance industry. I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both above and below the Karman line. My first two semesters I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester.
 
@@ -18,7 +20,7 @@ I went back to school in my late twenties after about eight years in the finance
 - adf
 - adf
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3)
+
 
 
 <!--
@@ -34,6 +36,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3)
 ![finance](https://user-images.githubusercontent.com/91184284/232307962-e49c14f1-5fa5-451e-a068-d00e0ad2bc82.png)
 -->
