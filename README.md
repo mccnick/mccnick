@@ -25,7 +25,8 @@ _______
 > · Contributing to open source projects
 
 _______
- ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square) · ![Need a laugh?](https://readme-jokes.vercel.app/api "click me") · ![Most Committed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mccnick&layout=compact&theme=theme)
+![Most Committed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mccnick&layout=compact&theme=theme) ![Need a laugh?](https://readme-jokes.vercel.app/api "click me") ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)
+this is a bit skewed due to the code in jupyter notebook; I have about 50/50 Python/Java experience.
 
 
 
