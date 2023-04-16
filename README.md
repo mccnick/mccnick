@@ -1,4 +1,4 @@
-### 👋 · Welcome! I'm Nick [LinkedIn 🤝](https://www.linkedin.com/in/mccnick/) · [email ✉️](mailto:nickmcc@iastate.edu)
+### 👋 · Welcome! I'm Nick · [LinkedIn 🤝](https://www.linkedin.com/in/mccnick/) · [email ✉️](mailto:nickmcc@iastate.edu)
 _______
 >💻 software engineer · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (⇦ that's Ollie) · 🕹️ gaming gamer
 _______
