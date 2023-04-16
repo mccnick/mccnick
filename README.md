@@ -1,7 +1,7 @@
  ### 💁🏻‍♂️ Hello, welcome.
 
  ### 🤓 I'm Nick:
- (⬅ and that's Ollie 🐶)
+ (<- and that's Ollie 🐶)
 - software engineering student 🖳
 - aerospace enthusiast 🚀
 - music enjoyer 🎵
