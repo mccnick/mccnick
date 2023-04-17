@@ -1,9 +1,29 @@
 ![ezgif com-crop-2](https://user-images.githubusercontent.com/91184284/232549394-da6c3eb5-e05e-44f8-9554-79f6ba9ebf4d.gif)
 
->💻 software engineering student · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (⇦ that's Ollie) · 🕹️ gamer
-> 
-> 
-> 
+```java
+public class me {
+	boolean isSmart, isCool, isFunny, hireable; 
+	String contactMe = "email/LinkedIn";
+	String please = "please";
+	public me() {
+		String name = "Nick McCullough";
+		String[] personality = {"error: not found","where is it?","funny", "motivated"};
+		String[] hobbies = {"music","aerospace enjoyer","cars","gaming", "spoiling doggo"};
+		String[] skills = {"java","python","self-learning","aerospace background","leadership","teamwork"};
+		String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
+		
+		me nick = new me(); 
+		if (nick.isSmart) {isCool=true; isFunny=true; hireable=true;}
+		else{hireable = true; // pls
+		}
+	}
+	public String hireMe(){
+		if (hireable == true){
+			return contactMe;}
+		return please;
+	}
+```
+
 <h3 align="center"> 
 
 <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> email</a> 
