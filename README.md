@@ -9,10 +9,11 @@ _______
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,c,cpp,js,react,threejs,vue,nodejs,html,css,git,latex)](https://skillicons.dev)
 
 _______
-
+<div>
 <p align="left">
-  <img src="https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif" alt="animated" />
-</p>#### 🧩 · Visuals of projects I've completed! 
+  <img src="https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif" alt="animated" />   </p>
+  
+#### 🧩 · Visuals of projects I've completed! 
 
 > Java Projects
 >> [2048 game](https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif) / [Java code](https://github.com/mccnick/COMS-227/blob/main/HW3/HW03/src/hw3/ConnectGame.java)
@@ -24,6 +25,7 @@ _______
 >> 
 >> [Aerospace Calculator Report](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf "100% score on this project report") / [MATLAB code](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/DensityAltCalc.m "Aerospace Calculator source code")
 
+</div>
 
 _______
 ![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
