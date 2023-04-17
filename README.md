@@ -10,13 +10,15 @@ _______
 
 _______
 
-### 🧩 · Challenges & Projects I've completed!
+ ### <p align="center">🧩 · Challenges & Projects I've completed!
 
 | Challenges  | Projects | Other   | Aerospace Software Projects |
 | ------------- | ------------- | ------------- | ------------- |
 | <a href="https://github.com/mccnick/Leetcode-Solutions">Leetcode</a> | <a href="https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif">2048 Game Visual</a> / <a href="https://github.com/mccnick/COMS-227/blob/main/HW3/HW03/src/hw3/ConnectGame.java">Java code</a>  |  <a href="https://github.com/mccnick/COMS-227/blob/main/HW2/HW02/src/hw2/ThreeCushion.java">OOP Example</a>   |       <a href="https://user-images.githubusercontent.com/91184284/232335618-21af470a-1634-4918-bc83-1c0c69ed4133.gif">SpaceX Falcon 9 Simulation Visual</a> / <a href="https://github.com/mccnick/AERE-160/blob/main/SpaceXRocketSimulation.py">Python code</a>        |
 | <a href="https://github.com/mccnick/HackerRank-Solutions">HackerRank</a> | <a href="https://user-images.githubusercontent.com/91184284/229703311-da007f9a-ea7c-4629-a577-32b01e902073.gif">TicTacToe Visual</a> / <a href="https://github.com/mccnick/TicTacToe/blob/main/TicTacToe/src/zzzTicTacToe/TicTacToe.java">Java code</a>  | <a href="https://github.com/mccnick/COMS-227">Java Labs</a>   |      <a href="https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf">Aerospace Calculator Report</a> / <a href="https://github.com/mccnick/DensityAltitudeCalculator/blob/main/DensityAltCalc.m">MATLAB code</a>         |  
 
+ </p> 
+  
 <!--
 <a href="https://github.com/mccnick/Leetcode-Solutions">Leetcode</a> 
 <a href="https://github.com/mccnick/HackerRank-Solutions">HackerRank</a> 
@@ -73,7 +75,7 @@ _______
 <!--
 **mccnick/mccnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-// <p align="right">text</p>
+// <p align="center">text</p>
 
 
 // github most used programming languages chart (too much jupyter notebook)
