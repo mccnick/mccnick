@@ -70,8 +70,6 @@ _______
 ###### You've gotten this far... need a laugh?
 ![](https://readme-jokes.vercel.app/api "click me")
 
-
-
 <!--
 **mccnick/mccnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
