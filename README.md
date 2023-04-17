@@ -2,6 +2,7 @@
 >💻 software engineer · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (⇦ that's Ollie) · 🕹️ gamer
 >> [🤝 LinkedIn](https://www.linkedin.com/in/mccnick/) · [✉️ email](mailto:nickmcc@iastate.edu)
 
+<div style="width:100%;height:0;padding-bottom:150%;position:relative;"><iframe src="https://giphy.com/embed/XHTuwW3v4O8NLAek2T" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/fire-cinemagraph-rocket-XHTuwW3v4O8NLAek2T">via GIPHY</a></p>
 _______
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,c,cpp,js,react,threejs,vue,nodejs,html,css,git,latex)](https://skillicons.dev)
 
