@@ -78,7 +78,6 @@ _______
 
 ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)
 
-
 <!--
 **mccnick/mccnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
