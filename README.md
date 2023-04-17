@@ -10,7 +10,7 @@ _______
 
 _______
 
-### 🧩 · Projects I've completed!
+### 🧩 · Challenges & Projects I've completed!
 
 | Challenges  | Projects | Other   | Aerospace Software Projects |
 | ------------- | ------------- | ------------- | ------------- |
