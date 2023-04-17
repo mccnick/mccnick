@@ -35,7 +35,7 @@ _______
 
 _______
  #### <sup>*About me*</sup> / <sub>*Storytime*</sub>
->I went back to school in my late twenties after about eight years in the finance industry (Toyota & Wells Fargo). I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both inside our atmosphere and beyond. My first two semesters, [while working full-time](https://www.registrar.iastate.edu/sites/default/files/uploads/info/DeansListF21Updated418.pdf "Dean's List"), I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester. I'm currently a SWE Intern @ John Deere.
+>I went back to school in my late twenties after about eight years in the finance industry (Toyota & Wells Fargo). I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both inside our atmosphere and beyond. My first two semesters, [while working full-time](https://www.registrar.iastate.edu/sites/default/files/uploads/info/DeansListF21Updated418.pdf "Dean's List"), I was introduced to programming specifically for aerospace applications and enjoyed it. The rest is history, I switched majors to Software Engineering that same semester. I'm currently a SWE Intern @ John Deere.
 
 _______
 ##### Need a Laugh?
