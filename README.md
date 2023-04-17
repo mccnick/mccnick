@@ -64,6 +64,10 @@ Here are some ideas to get you started:
 // github most used programming languages chart (too much jupyter notebook)
 ![Most Committed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mccnick&layout=compact&theme=theme)
 
+![image](https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif)
+
+
+
 // spotify
 ![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3)
