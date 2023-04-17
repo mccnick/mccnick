@@ -4,7 +4,7 @@
 ```java
 public class me {
 	boolean isSmart, isCool, isFunny, hireable; 
-	String contactMe = "email/LinkedIn";
+	String contactMe = "LinkedIn/email";
 	String please = "please";
 	public me() {
 		String name = "Nick McCullough";
