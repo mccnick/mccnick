@@ -1,4 +1,4 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/91184284/232545063-5b9f2e33-e8fe-4923-a4cf-d93c5fa9afe7.gif)
+![ezgif com-crop-2](https://user-images.githubusercontent.com/91184284/232549394-da6c3eb5-e05e-44f8-9554-79f6ba9ebf4d.gif)
 
 >💻 software engineering student · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (⇦ that's Ollie) · 🕹️ gamer
 >> [🤝 LinkedIn](https://www.linkedin.com/in/mccnick/) · [✉️ email](mailto:nickmcc@iastate.edu) · ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)
