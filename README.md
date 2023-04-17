@@ -1,5 +1,6 @@
 ![ezgif com-crop-2](https://user-images.githubusercontent.com/91184284/232549394-da6c3eb5-e05e-44f8-9554-79f6ba9ebf4d.gif)
 
+
 ```java
 public class me {
 	boolean isSmart, isCool, isFunny, hireable; 
@@ -24,11 +25,7 @@ public class me {
 	}
 ```
 
-<h3 align="center"> 
 
-<a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> email</a> 
-
- </h3>
 
 _______
 
@@ -36,7 +33,7 @@ _______
 
 _______
 
- ### <p align="center">🧩 · Challenges & Projects I've completed!  </p> 
+ ### <p align="center"> <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> email</a> 🧩 · Challenges & Projects I've completed!  </p> 
 
 
 | Coding Challenges  | Projects | Other   | Aerospace Software Projects |
