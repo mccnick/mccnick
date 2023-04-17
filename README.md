@@ -16,11 +16,6 @@ _______
 _______
 ![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
 
-
-
-_______
- #### <sup>*About me*</sup> / <sub>*Storytime*</sub>
->I went back to school in my late twenties after about eight years in the finance industry (Toyota & Wells Fargo). I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both above and below the Karman line. My first two semesters, [while working full-time](https://www.registrar.iastate.edu/sites/default/files/uploads/info/DeansListF21Updated418.pdf "Dean's List"), I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester. I'm currently a SWE Intern @ John Deere.
 _______
 
 #### 🌱 · I am currently working on
@@ -31,6 +26,11 @@ _______
 > · Building an app to help Iowa State students
 >
 > · Contributing to open source projects
+
+_______
+ #### <sup>*About me*</sup> / <sub>*Storytime*</sub>
+>I went back to school in my late twenties after about eight years in the finance industry (Toyota & Wells Fargo). I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both above and below the Karman line. My first two semesters, [while working full-time](https://www.registrar.iastate.edu/sites/default/files/uploads/info/DeansListF21Updated418.pdf "Dean's List"), I was introduced to programming specifically for aerospace applications. The rest is history, I switched majors to Software Engineering that same semester. I'm currently a SWE Intern @ John Deere.
+
 _______
 ##### Need a Laugh?
 ![](https://readme-jokes.vercel.app/api "click me")
