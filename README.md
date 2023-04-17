@@ -6,7 +6,7 @@ _______
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,c,cpp,js,react,threejs,vue,nodejs,html,css,git,latex)](https://skillicons.dev)
 
 _______
-#### 🧩 · Visuals of projects I've already completed! 
+#### 🧩 · Visuals of projects I've completed! 
 
 > Java Projects
 >> [2048 game](https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif) / [Java code](https://github.com/mccnick/COMS-227/blob/main/HW3/HW03/src/hw3/ConnectGame.java)
