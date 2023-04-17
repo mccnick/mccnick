@@ -1,7 +1,6 @@
 ### 👋 · Welcome! I'm Nick
-
-<p align="center"> 💻 software engineer · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (⇦ that's Ollie) · 🕹️ gamer </p>
-<p align="center"> [🤝 LinkedIn](https://www.linkedin.com/in/mccnick/) · [✉️ email](mailto:nickmcc@iastate.edu) · ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square) </p>
+>💻 software engineer · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (⇦ that's Ollie) · 🕹️ gamer
+>> [🤝 LinkedIn](https://www.linkedin.com/in/mccnick/) · [✉️ email](mailto:nickmcc@iastate.edu) · ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)
 
 
 
@@ -10,27 +9,31 @@ _______
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,c,cpp,js,react,threejs,vue,nodejs,html,css,git,latex)](https://skillicons.dev)
 
 _______
-<div>
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif" alt="animated" />   </p>
-  
-#### 🧩 · Visuals of projects I've completed! 
 
-> Java Projects
->> [2048 game](https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif) / [Java code](https://github.com/mccnick/COMS-227/blob/main/HW3/HW03/src/hw3/ConnectGame.java)
->> 
->> [TicTacToe](https://user-images.githubusercontent.com/91184284/229703311-da007f9a-ea7c-4629-a577-32b01e902073.gif) / [Java code](https://github.com/mccnick/TicTacToe/blob/main/TicTacToe/src/zzzTicTacToe/TicTacToe.java "TicTacToe source code")
-
-> Aerospace Software Projects
->> [SpaceX Falcon 9 Simulation](https://user-images.githubusercontent.com/91184284/232335618-21af470a-1634-4918-bc83-1c0c69ed4133.gif) / [Python code](https://github.com/mccnick/AERE-160/blob/main/SpaceXRocketSimulation.py "SpaceX Falcon 9 Simulation source code")
->> 
->> [Aerospace Calculator Report](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf "100% score on this project report") / [MATLAB code](https://github.com/mccnick/DensityAltitudeCalculator/blob/main/DensityAltCalc.m "Aerospace Calculator source code")
-
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h4>🧩 · Visuals of projects I've completed!</h4>
+    <p>Java Projects</p>
+    <ul>
+      <li><a href="https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif">2048 game</a> / <a href="https://github.com/mccnick/COMS-227/blob/main/HW3/HW03/src/hw3/ConnectGame.java">Java code</a></li>
+      <li><a href="https://user-images.githubusercontent.com/91184284/229703311-da007f9a-ea7c-4629-a577-32b01e902073.gif">TicTacToe</a> / <a href="https://github.com/mccnick/TicTacToe/blob/main/TicTacToe/src/zzzTicTacToe/TicTacToe.java">Java code</a></li>
+    </ul>
+    <p>Aerospace Software Projects</p>
+    <ul>
+      <li><a href="https://user-images.githubusercontent.com/91184284/232335618-21af470a-1634-4918-bc83-1c0c69ed4133.gif">SpaceX Falcon 9 Simulation</a> / <a href="https://github.com/mccnick/AERE-160/blob/main/SpaceXRocketSimulation.py">Python code</a></li>
+      <li><a href="https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf">Aerospace Calculator Report</a> / <a href="https://github.com/mccnick/DensityAltitudeCalculator/blob/main/DensityAltCalc.m">MATLAB code</a></li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif" alt="Your gif" width="200"/>
+  </div>
 </div>
 
 _______
-![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
 
+ 
+![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=700&height=200&align=right)
+  
 _______
 
 #### 🌱 · I am currently working on
@@ -49,8 +52,6 @@ _______
 _______
 ##### Need a Laugh?
 ![](https://readme-jokes.vercel.app/api "click me")
-
-![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)
 
 
 
