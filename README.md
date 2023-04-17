@@ -6,7 +6,7 @@
 > 
 <h3 align="center"> 
 
-<a href="https://www.linkedin.com/in/mccnick/">🤝 LinkedIn</a> · <a href="mailto:nickmcc@iastate.edu"> ✉️ email</a> 
+<a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> email</a> 
 
  </h3>
 
