@@ -34,7 +34,7 @@ _______
 <p float="left">
  <img src="https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif" alt="Your gif" width="200"/>
 
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=600&height=200&align=right" width="800" /> 
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=650&height=200&align=right" width="800" /> 
 </p>
 
 _______
