@@ -8,13 +8,13 @@ public class me {
 	String please = "please";
 	public me() {
 		String name = "Nick McCullough";
-		String[] personality = {"error: not found","where is it?","funny", "motivated"};
-		String[] hobbies = {"music","aerospace enjoyer","cars","gaming", "spoiling doggo"};
-		String[] skills = {"java","python","self-learning","aerospace background","leadership","teamwork"};
+		String[] personality = {"error: not found", "where is it?", "funny", "motivated"};
+		String[] hobbies = {"music", "aerospace enjoyer", "cars", "spoiling doggo", "gaming"};
+		String[] skills = {"java", "python", "self-learning", "aerospace background", "leadership", "teamwork"};
 		String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
 		
 		me nick = new me(); 
-		if (nick.isSmart) {isCool=true; isFunny=true; hireable=true;}
+		if (nick.isSmart) {isCool = true; isFunny = true; hireable = true;}
 		else{hireable = true; // pls
 		}
 	}
