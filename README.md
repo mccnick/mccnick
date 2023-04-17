@@ -2,7 +2,10 @@
 >💻 software engineer · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (⇦ that's Ollie) · 🕹️ gamer
 >> [🤝 LinkedIn](https://www.linkedin.com/in/mccnick/) · [✉️ email](mailto:nickmcc@iastate.edu)
 
-![image](https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif" alt="animated" />
+</p>
+
 _______
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,c,cpp,js,react,threejs,vue,nodejs,html,css,git,latex)](https://skillicons.dev)
 
