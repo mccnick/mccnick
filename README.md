@@ -8,6 +8,7 @@ _______
 
 > Java Projects
 >> [2048 game](https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif) / [Java](https://github.com/mccnick/COMS-227/blob/main/HW3/HW03/src/hw3/ConnectGame.java "2048 game source code")
+>> 
 >> [TicTacToe](https://user-images.githubusercontent.com/91184284/229703311-da007f9a-ea7c-4629-a577-32b01e902073.gif) / [Java](https://github.com/mccnick/TicTacToe/blob/main/TicTacToe/src/zzzTicTacToe/TicTacToe.java "TicTacToe source code")
 
 > Aerospace Software Projects
