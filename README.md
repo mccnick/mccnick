@@ -34,7 +34,7 @@ _______
 
 
 
- <img src="https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif" alt="Your gif" height="270"/> <img src="https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=590" height="270" width="700"/>  
+ <img src="https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif" alt="Your gif" height="270"/> <img src="https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=590" height="270" width="675"/>  
 
 
 _______
