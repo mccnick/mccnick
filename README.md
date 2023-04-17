@@ -2,9 +2,13 @@
 
 >💻 software engineering student · 🚀 aerospace enthusiast · 🎵 music enjoyer · 🐶 dog lover (⇦ that's Ollie) · 🕹️ gamer
 > 
-> [🤝 LinkedIn](https://www.linkedin.com/in/mccnick/) · [✉️ email](mailto:nickmcc@iastate.edu)
+> 
+> 
+<h3 align="center"> 
 
+<a href="https://www.linkedin.com/in/mccnick/">🤝 LinkedIn</a> · <a href="mailto:nickmcc@iastate.edu"> ✉️ email</a> 
 
+ </h3>
 
 _______
 
