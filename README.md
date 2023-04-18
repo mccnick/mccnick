@@ -30,7 +30,7 @@ public class me {
 
 
 
- ### <p align="center"> <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> email</a> 🧩 Challenges & Projects I've completed!  </p> 
+ ### <p align="center"> <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> email</a> · 🧩 Challenges & Projects I've completed!  </p> 
 
 
 | Coding Challenges  | Projects | Aerospace Software Projects   | Other |
