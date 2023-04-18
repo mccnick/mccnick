@@ -40,7 +40,7 @@ public class me {
 _______
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,c,cpp,js,react,threejs,vue,nodejs,html,css,git,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,react,js,threejs,vue,nodejs,c,cpp,html,css,git,latex)](https://skillicons.dev)
 
 _______
 
