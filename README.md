@@ -4,8 +4,7 @@
 ```java
 public class me {
 	boolean isSmart, isCool, isFunny, needsCaffeine, needsSleep, hireable; 
-	String contactMe = "LinkedIn/email";
-	String please = "please";
+	String contactMe = "LinkedIn/email", please = "please";
 	public me() {
 		String name = "Nick McCullough";
 		String[] personality = {"error: not found", "where is it?", "funny", "motivated"};
