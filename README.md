@@ -3,7 +3,7 @@
 
 ```java
 public class me {
-	boolean isSmart, isCool, isFunny, hireable; 
+	boolean isSmart, isCool, isFunny, needsCaffeine, needsSleep, hireable; 
 	String contactMe = "LinkedIn/email";
 	String please = "please";
 	public me() {
@@ -19,7 +19,7 @@ public class me {
 			isCool = true; isFunny = true; hireable = true;
 			return true;
 		} else {
-			hireable = true; // please hire me anyway
+			needsSleep = true; needsCaffeine = true; hireable = true; // please hire me anyway
 			return false;
 		} 
 	}
