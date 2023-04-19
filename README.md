@@ -1,4 +1,5 @@
-![ezgif com-crop-2](https://user-images.githubusercontent.com/91184284/232549394-da6c3eb5-e05e-44f8-9554-79f6ba9ebf4d.gif)
+![ezgif com-optimize](https://user-images.githubusercontent.com/91184284/233006102-6054a69b-0c82-489b-bfef-d0742e683799.gif)
+
 
 
 ```java
@@ -113,6 +114,10 @@ _______
 **mccnick/mccnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 // <p align="center">text</p>
+
+
+
+// ![ezgif com-crop-2](https://user-images.githubusercontent.com/91184284/232549394-da6c3eb5-e05e-44f8-9554-79f6ba9ebf4d.gif)
 
 
 // github most used programming languages chart (too much jupyter notebook)
