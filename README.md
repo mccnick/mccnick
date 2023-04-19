@@ -1,5 +1,7 @@
 ![ezgif com-video-to-gif-3](https://user-images.githubusercontent.com/91184284/233022270-8d005f6a-aaa8-459a-9321-76ee73c86161.gif)
 
+![ezgif com-optimize-6](https://user-images.githubusercontent.com/91184284/233212165-f45b6b97-c9b6-4aec-8ba5-b64562d7b5a0.gif)
+
 ```java
 public class me {
 	boolean isSmart, isCool, isFunny, needsCaffeine, needsSleep, hireable; 
