@@ -26,7 +26,7 @@ public class me {
 		if (hireable == true) {
 			return contactMe + "message me, let's chat!";
 		}
-		return please + "hire me";
+		return please + "reconsider";
 	}
 }
 ```
