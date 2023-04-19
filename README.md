@@ -29,7 +29,7 @@ public class me {
 	}
 }
 ```
- # <p align="center"> <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> email</a> · 🧩 Projects & Challenges I've completed!  </p> 
+ ## <p align="center"> <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> email</a> · 🧩 Projects & Challenges I've completed!  </p> 
 
 
 | Projects  | Aerospace Software Projects |  Coding Challenges   | Other |
