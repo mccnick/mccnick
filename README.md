@@ -1,5 +1,3 @@
-![ezgif com-resize](https://user-images.githubusercontent.com/91184284/233019802-baad9841-1ac3-47cf-833d-8940c06c645d.gif)
-
 ![ezgif com-video-to-gif-3](https://user-images.githubusercontent.com/91184284/233022270-8d005f6a-aaa8-459a-9321-76ee73c86161.gif)
 
 ```java
