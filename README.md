@@ -13,11 +13,9 @@ public class me {
 		String[] skills = {"java", "python", "self-learning", "aerospace background", "leadership", "teamwork"};
 		String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
 		
-	public boolean isNickSmart( )
-	{
+	public boolean isNickSmart() {
 		me nick = new me();
-		if (nick.isSmart)
-		{
+		if (nick.isSmart) {
 			isCool = true; isFunny = true; hireable = true;
 			return true;
 		} else {
@@ -25,8 +23,7 @@ public class me {
 			return false;
 		} 
 	}
-	public String hireMe( )
-	{
+	public String hireMe() {
 		if (hireable == true) {
 			return contactMe;
 		}
