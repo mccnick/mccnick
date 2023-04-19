@@ -1,5 +1,4 @@
 ![ezgif com-optimize-3](https://user-images.githubusercontent.com/91184284/233018425-0625985b-379e-4fb4-894c-f9704a6d8907.gif)
-
 ```java
 public class me {
 	boolean isSmart, isCool, isFunny, needsCaffeine, needsSleep, hireable; 
