@@ -13,14 +13,23 @@ public class me {
 		String[] skills = {"java", "python", "self-learning", "aerospace background", "leadership", "teamwork"};
 		String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
 		
-		me nick = new me(); 
-		if (nick.isSmart) {isCool = true; isFunny = true; hireable = true;}
-		else{hireable = true; // pls
-		}
+public boolean isNickSmart( )
+	{
+		me nick = new me();
+		if (nick.isSmart)
+		{
+			isCool = true; isFunny = true; hireable = true;
+			return true;
+		} else {
+			hireable = true; // please hire me anyway
+			return false;
+		} 
 	}
-	public String hireMe(){
-		if (hireable == true){
-			return contactMe;}
+	public String hireMe( )
+	{
+		if (hireable == true) {
+			return contactMe;
+		}
 		return please;
 	}
 ```
