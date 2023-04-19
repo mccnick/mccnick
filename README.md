@@ -107,7 +107,6 @@ _______
 ###### You've gotten this far... need a laugh?
 ![](https://readme-jokes.vercel.app/api "click me")
 
-
 ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)
 
 <!--
