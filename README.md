@@ -25,7 +25,7 @@ public class me {
 	public String hireMe() {
 		if (hireable == true) {
 			return contactMe + "message me, let's chat!";
-		}
+		} else {
 		return please + "reconsider";
 	}
 }
