@@ -1,4 +1,4 @@
-![ezgif com-optimize-3](https://user-images.githubusercontent.com/91184284/233018425-0625985b-379e-4fb4-894c-f9704a6d8907.gif)
+![ezgif com-resize](https://user-images.githubusercontent.com/91184284/233019802-baad9841-1ac3-47cf-833d-8940c06c645d.gif)
 
 ```java
 public class me {
@@ -107,6 +107,7 @@ _______
 
 // <p align="center">text</p>
 
+// ![ezgif com-optimize-3](https://user-images.githubusercontent.com/91184284/233018425-0625985b-379e-4fb4-894c-f9704a6d8907.gif)
 
 
 // ![ezgif com-crop-2](https://user-images.githubusercontent.com/91184284/232549394-da6c3eb5-e05e-44f8-9554-79f6ba9ebf4d.gif)
