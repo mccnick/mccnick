@@ -1,5 +1,16 @@
 ![ezgif com-optimize-6](https://user-images.githubusercontent.com/91184284/233212165-f45b6b97-c9b6-4aec-8ba5-b64562d7b5a0.gif)
 
+ ## <p align="center"> <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> email</a> · 🧩 Projects & Challenges I've completed! 🎯 </p> 
+
+
+| Projects  | Aerospace Software Projects |  Coding Challenges   | Other |
+| :-------------: | :-------------: | :-------------: | :-------------: |
+| <a href="https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif">2048 Game Visual</a> / <a href="https://github.com/mccnick/COMS-227/blob/main/HW3/HW03/src/hw3/ConnectGame.java">Java code</a>  | <a href="https://user-images.githubusercontent.com/91184284/232335618-21af470a-1634-4918-bc83-1c0c69ed4133.gif">SpaceX Falcon 9 Simulation Visual</a> / <a href="https://github.com/mccnick/AERE-160/blob/main/SpaceXRocketSimulation.py">Python code</a> | <a href="https://github.com/mccnick/HackerRank-Solutions">HackerRank</a> |<a href="https://github.com/mccnick/COMS-227/blob/main/HW2/HW02/src/hw2/ThreeCushion.java">OOP Example</a>   
+| <a href="https://user-images.githubusercontent.com/91184284/229703311-da007f9a-ea7c-4629-a577-32b01e902073.gif">TicTacToe Visual</a> / <a href="https://github.com/mccnick/TicTacToe/blob/main/TicTacToe/src/zzzTicTacToe/TicTacToe.java">Java code</a>  |  <a href="https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf">Aerospace Calculator Report</a> / <a href="https://github.com/mccnick/DensityAltitudeCalculator/blob/main/DensityAltCalc.m">MATLAB code</a>    | <a href="https://github.com/mccnick/Leetcode-Solutions">Leetcode</a> | <a href="https://github.com/mccnick/COMS-227">Java Labs</a>
+
+
+_______
+
 ```java
 public class me {
 	boolean isSmart, isCool, isFunny, needsCaffeine, needsSleep, hireable; 
@@ -29,15 +40,8 @@ public class me {
 	}
 }
 ```
- ## <p align="center"> <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> email</a> · 🧩 Projects & Challenges I've completed! 🎯 </p> 
 
-
-| Projects  | Aerospace Software Projects |  Coding Challenges   | Other |
-| :-------------: | :-------------: | :-------------: | :-------------: |
-| <a href="https://user-images.githubusercontent.com/91184284/232322694-6c8ceb66-9118-4066-a43c-5214a4083cb1.gif">2048 Game Visual</a> / <a href="https://github.com/mccnick/COMS-227/blob/main/HW3/HW03/src/hw3/ConnectGame.java">Java code</a>  | <a href="https://user-images.githubusercontent.com/91184284/232335618-21af470a-1634-4918-bc83-1c0c69ed4133.gif">SpaceX Falcon 9 Simulation Visual</a> / <a href="https://github.com/mccnick/AERE-160/blob/main/SpaceXRocketSimulation.py">Python code</a> | <a href="https://github.com/mccnick/HackerRank-Solutions">HackerRank</a> |<a href="https://github.com/mccnick/COMS-227/blob/main/HW2/HW02/src/hw2/ThreeCushion.java">OOP Example</a>   
-| <a href="https://user-images.githubusercontent.com/91184284/229703311-da007f9a-ea7c-4629-a577-32b01e902073.gif">TicTacToe Visual</a> / <a href="https://github.com/mccnick/TicTacToe/blob/main/TicTacToe/src/zzzTicTacToe/TicTacToe.java">Java code</a>  |  <a href="https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf">Aerospace Calculator Report</a> / <a href="https://github.com/mccnick/DensityAltitudeCalculator/blob/main/DensityAltCalc.m">MATLAB code</a>    | <a href="https://github.com/mccnick/Leetcode-Solutions">Leetcode</a> | <a href="https://github.com/mccnick/COMS-227">Java Labs</a>
 _______
-
 
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,react,js,threejs,vue,nodejs,c,cpp,html,css,git,latex)](https://skillicons.dev)
 
