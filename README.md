@@ -1,7 +1,7 @@
 ![ezgif com-optimize-6](https://user-images.githubusercontent.com/91184284/233212165-f45b6b97-c9b6-4aec-8ba5-b64562d7b5a0.gif)
 
  # <p align="center"> <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> email</a> </p>
- ### <p align="center"> 🧩 Projects & Challenges I've completed! 🎯 </p> 
+ ### <p align="center"> 🧩 Projects & Challenges I've completed 🎯 </p> 
 
 
 | Projects  | Aerospace Software Projects |  Coding Challenges   | Other |
