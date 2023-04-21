@@ -2,8 +2,7 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h3><p align="center"> Software Engineering @ Iowa State </p></h2>
-	<h3><p align="center"> <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> email</a> </p></h2>
+	<h3><p align="center"> <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> Email</a> · Software Engineering @ Iowa State</p></h2>
 	</div>
 </div>
 
