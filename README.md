@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-	<h3><p align="center"> <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> Email</a> </p></h2>
+	<h3><p align="center"> <a href="https://github.com/mccnick/mccnick/files/11357972/Nick_McCullough_Resume-3.pdf"> Resume</a> · <a href="https://www.linkedin.com/in/mccnick/">LinkedIn </a> ·  <a href="mailto:nickmcc@iastate.edu"> Email</a> </p></h2>
 	</div>
 	<div> <h4><p align="center"> Software Engineering @ Iowa State </p> <h4></div>
 </div>
