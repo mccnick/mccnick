@@ -14,7 +14,7 @@
 		
 _______
 
-### <p align="center"> Projects, Coursework & Coding Challenge Solutions I've completed. </p> 
+### <p align="center"> Projects, Coursework & Solutions I've completed. </p> 
 
 
 | Software Engineering Projects  | Aerospace Engineering Projects |  Challenge Solutions   | Other Stuff |
