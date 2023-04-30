@@ -10,7 +10,7 @@
 	<a href="https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=share_link">Resume</a>
 	</p></h2> 
 	</div>
-	<div> <h3><p align="center"> *Software Engineering @ Iowa State* </p> <h3></div>
+	<div><h3><p align="center"><i>Software Engineering @ Iowa State</i></p></h3></div>
 </div>
 
 		
