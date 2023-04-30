@@ -9,7 +9,7 @@
 
 _______
 
-### <p align="center"> Projects, Challenges & Coursework I've completed </p> 
+### <p align="center"> Projects, Challenges & Coursework I've completed. </p> 
 
 
 | Software Engineering Projects  | Aerospace Engineering Projects |  Coding Challenges   | Other Stuff |
