@@ -50,7 +50,7 @@ public class me {
 		String[] hobbies = {"music", "aerospace enjoyer", "cars", "spoiling doggo", "gaming"};
 		String[] skills = {"java", "python", "self-learning", "aerospace background", "leadership", "teamwork"};
 		String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
-		String experience = "Previous SWE Intern @ John Deere. Many years in finance industry."
+		String experience = "SWE Intern @ John Deere 22-23 and many years in finance industry."
 		
 	public boolean isNickSmart() {
 		me nick = new me();
@@ -66,7 +66,7 @@ public class me {
 		if (hireable == true) {
 			return "Let's chat! Message me on " + contactMe + ". Links above :)";
 		} else {
-		return please + "reconsider";
+		return please + "reconsider" + experience;
 	}
 }
 ```
