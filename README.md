@@ -78,7 +78,7 @@ _______
  <img src="https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif" alt="Your gif" height="250"/><img src="https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=570" height="250" width="670"/>  
 _______
 
-#### <p align="center"> 🌱 I am currently working on </p> 
+#### <p align="center"> 🌱 I am currently working on 🧠</p> 
 > · Learning Data Structures and Algorithms, both in class and on my own
 >
 > · Developing my own 3D outer space portfolio inspired by [three.JS](https://threejs.org/)
