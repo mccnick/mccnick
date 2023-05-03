@@ -91,10 +91,17 @@ _______
 #### <sup>*About me*</sup> / <sub>*Storytime*</sub>
 >I went back to school in my late twenties after eight years in the finance industry (Ex-Toyota, Ex-Wells Fargo). I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both inside our atmosphere and beyond. My first two semesters, [while working full-time](https://www.registrar.iastate.edu/sites/default/files/uploads/info/DeansListF21Updated418.pdf "Dean's List"), I was introduced to programming specifically for aerospace applications and enjoyed it. The rest is history, I switched majors to Software Engineering that semester. SWE Intern @ John Deere 2022-2023.
 
+
+_______
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/91184284/235905486-0fc770d0-2506-4322-8ace-ab3ed11d0494.gif" alt="animated" />
+</p>
+
+
 _______
 > ###### You've gotten this far... need a laugh? 
-> ![](https://readme-jokes.vercel.app/api "click me") 
-> 
+> ![](https://readme-jokes.vercel.app/api "click me")
 > 
 	
 
