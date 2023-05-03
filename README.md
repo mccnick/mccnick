@@ -56,7 +56,8 @@ public class Me {
     public boolean isNickSmart() {
         Me nick = new Me();
         if (nick.isSmart) {
-            isCool = true; isFunny = true; hireable = true; return true;
+            isCool = true; isFunny = true; hireable = true;
+	    return true;
         } else { needsSleep = true; needsCaffeine = true; hireable = true; // please hire me anyway
             return false;
         }
