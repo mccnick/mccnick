@@ -102,7 +102,6 @@ _______
 _______
 > ###### You've gotten this far... need a laugh? 
 > ![](https://readme-jokes.vercel.app/api "click me")
->
 >[Back to Top](https://github.com/mccnick)
 
 
