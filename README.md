@@ -17,7 +17,7 @@
 		
 _______
 
-### <p align="center"> Projects, Coursework & Coding Challenge Solutions I've completed</p> 
+### <p align="center"> Projects, Coursework & Algorithm Challenges I've completed</p> 
 <!-- ##### <p align="center"> Click on anything you want to see below, feel free to message me if you have any questions!  </p> -->
 
 
