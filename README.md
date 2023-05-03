@@ -41,34 +41,35 @@ _______
 _______
 
 ```java
-public class me {
-	boolean isSmart, isCool, isFunny, needsCaffeine, needsSleep, hireable; 
-	String contactMe = "LinkedIn/email", please = "Please";
-	public me() {
-		String name = "Nick McCullough";
-		String[] personality = {"error: not found", "where is it?", "funny", "motivated"};
-		String[] hobbies = {"music", "aerospace enjoyer", "cars", "spoiling doggo", "gaming"};
-		String[] skills = {"java", "python", "self-learning", "aerospace background", "leadership", "teamwork"};
-		String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
-		String experience = "SWE Intern @ John Deere 22-23 and many years in finance industry."
-		
-	public boolean isNickSmart() {
-		me nick = new me();
-		if (nick.isSmart) {
-			isCool = true; isFunny = true; hireable = true;
-			return true;
-		} else {
-			needsSleep = true; needsCaffeine = true; hireable = true; // please hire me anyway
-			return false;
-		} 
-	}
-	public String hireMe() {
-		if (hireable == true) {
-			return "Let's chat! Message me on " + contactMe + ". Links above :)";
-		} else {
-		return please + "reconsider" + experience;
-	}
+public class Me {
+    boolean isSmart, isCool, isFunny, needsCaffeine, needsSleep, hireable; 
+    String contactMe = "LinkedIn/email", please = "Please";
+    
+    public Me() {
+        String name = "Nick McCullough";
+        String[] personality = {"error: not found", "where is it?", "funny", "motivated"};
+        String[] hobbies = {"music", "aerospace enjoyer", "cars", "spoiling doggo", "gaming"};
+        String[] skills = {"java", "python", "self-learning", "aerospace background", "leadership", "teamwork"};
+        String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
+        String experience = "SWE Intern @ John Deere 22-23 and many years in finance industry.";
+    }
+    public boolean isNickSmart() {
+        Me nick = new Me();
+        if (nick.isSmart) {
+            isCool = true; isFunny = true; hireable = true; return true;
+        } else { needsSleep = true; needsCaffeine = true; hireable = true; // please hire me anyway
+            return false;
+        }
+    }
+    public String hireMe() {
+        if (hireable == true) {
+            return "Let's chat! Message me on " + contactMe + ". Links above :)";
+        } else {
+            return please + " reconsider " + experience;
+        }
+    }
 }
+
 ```
 
 _______
