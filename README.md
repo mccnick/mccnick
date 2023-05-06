@@ -109,7 +109,7 @@ _______
 > ###### You've gotten this far... need a laugh? 
 > ![](https://readme-jokes.vercel.app/api "click me")
 > 
-> Want to read again? [Back to Top](https://github.com/mccnick) Otherwise check out my repositories below. Thanks for stopping by!
+> Want to read again? [Back to Top](https://github.com/mccnick) · Otherwise check out my repositories below. Thanks for stopping by!
 
 
 
