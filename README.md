@@ -103,7 +103,7 @@ _______
 
 ![Stumble - A  L  Crego](https://user-images.githubusercontent.com/91184284/236307031-169c071c-2217-4704-90bc-23f642e0a2ec.gif)
 
-##### <p align="center"> <a href="https://visual-massage.com/massages/78">A. L. Crego</a></p> 
+##### <p align="center"> artwork by <a href="https://visual-massage.com/massages/78">A. L. Crego</a></p> 
 
 
 
