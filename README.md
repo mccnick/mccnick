@@ -6,10 +6,10 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
 	<h3><p align="center">  
-	<a href="https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=share_link"> 📄 Resume </a> · <a href="https://www.linkedin.com/in/mccnick/"> 🤝 LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> ✉️ Email </a> 
+	<a href="https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=share_link"> 📄 Resume </a> · <a href="https://www.linkedin.com/in/mccnick/"> 🤝 LinkedIn </a> · <a href="mailto:nickmcc@iastate.edu"> ✉️ Email </a> · <a href="https://se.iastate.edu/"> <i>Software Engineering @ Iowa State</i> </a> 
 	</p></h2> 
 	</div>
-	<div><h3><p align="center"><i>Software Engineering @ Iowa State</i></p></h3></div>
+	<div><h3><p align="center"></p></h3></div>
 </div>
 
 		
