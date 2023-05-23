@@ -108,7 +108,8 @@ _______
 > ###### You've gotten this far... need a laugh? 
 > ![](https://readme-jokes.vercel.app/api "click me")
 > 
-> Check out my repositories below. Thanks for stopping by! · [Back to Top](https://github.com/mccnick) 
+> Check out my repositories below. Thanks for stopping by!
+> [Back to Top](https://github.com/mccnick) 
 
 
 
