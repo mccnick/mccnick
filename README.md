@@ -10,12 +10,8 @@
 	</p></h3> 
 	</div>
 	<div><h3><p align="center"></p></h3></div>
-</div>
-
-		
-		
+</div>	
 _______
-
 
 | 🧩 **Algorithm Practice** |👨‍💻 **Software Engineering Projects** | 🚀 **Aerospace Engineering Projects** 
 | :-------------: | :-------------: | :-------------: |
@@ -23,13 +19,6 @@ _______
 | <a href="https://github.com/mccnick/HackerRank-Solutions">**HackerRank**</a> - <a href="https://www.hackerrank.com/nickmcc">*profile*</a>| <a href="https://user-images.githubusercontent.com/91184284/229703311-da007f9a-ea7c-4629-a577-32b01e902073.gif">**TicTacToe Visual**</a> - <a href="https://github.com/mccnick/TicTacToe/blob/main/TicTacToe/src/zzzTicTacToe/TicTacToe.java">*Java code*</a>  |  <a href="https://github.com/mccnick/DensityAltitudeCalculator/blob/main/Nick%20McCullough%20-%20Project%201.pdf">**Density Altitude Calculator**</a> - <a href="https://github.com/mccnick/DensityAltitudeCalculator/blob/main/DensityAltCalc.m">*MATLAB code*</a> 
 |  |  <a href="https://github.com/mccnick/COMS-227">**Java Assignments & Labs**</a> |  <a href="https://github.com/mccnick/AERE-161/blob/main/Solidworks%20Final%20Project.pdf">**Lockheed SR-71 Blackbird, SolidWorks**</a> - <a href="https://github.com/mccnick/AERE-161/blob/main/Final%20Presentation%20May%201.pdf">*1*</a> , <a href="https://github.com/mccnick/AERE-161/blob/main/ad036e0b97602106e3a33534a5400017.png">*2*</a>     
 | ![](https://komarev.com/ghpvc/?username=mccnick&color=blue&label=Views+on+Nick's+GitHub:&style=for-the-square)  | <a href="https://github.com/mccnick/CPRE-281">**Digital Logic**</a>  |  <a href="https://github.com/mccnick/AERE-160/blob/main/LTA%20pictures.pdf">**Team Project Aircraft Build, Pictures**</a> - <a href="https://github.com/mccnick/AERE-160/blob/main/annotated-LTA.pptx.pdf">*PPT*</a>    
-
-	
-		
-		
-
-		
-		
 _______
 
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,react,js,threejs,vue,nodejs,c,cpp,html,css,git,latex)](https://skillicons.dev)
@@ -67,7 +56,6 @@ public class Me {
 }
 
 ```
-
 _______
 
  <img src="https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif" alt="Your gif" height="250"/><img src="https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=570" height="250" width="670"/>  
