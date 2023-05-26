@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/91184284/233212165-f45b6b97-c9b6-4aec-8ba5-b64562d7b5a0.gif" alt="animated" />
 </p>
 
-
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
 	<h3><p align="center">  
@@ -73,8 +72,6 @@ _______
 _______
 #### <p align="center"> <sup>*About me*</sup> / <sub>*Storytime*</sub> </p> 
 >I went back to school in my late twenties after eight years in the finance industry (Ex-Toyota, Ex-Wells Fargo). I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both inside our atmosphere and beyond. My first two semesters, [while working full-time](https://www.registrar.iastate.edu/sites/default/files/uploads/info/DeansListF21Updated418.pdf "Dean's List"), I was introduced to programming specifically for aerospace applications and enjoyed it. The rest is history, I switched majors to Software Engineering that semester. SWE Intern @ John Deere 2022-2023.
-
-
 _______
 
 <p align="center">
@@ -82,16 +79,11 @@ _______
 </p>
 
 ##### <p align="center"> "Black Hole" artwork by <a href="https://www.nasa.gov/feature/goddard/2019/nasa-visualization-shows-a-black-hole-s-warped-world"> NASA</a></p> 
-
-
 _______
 
 ![Stumble - A  L  Crego](https://user-images.githubusercontent.com/91184284/236307031-169c071c-2217-4704-90bc-23f642e0a2ec.gif)
 
 ##### <p align="center"> "Stumble" artwork by <a href="https://visual-massage.com/massages/78">A. L. Crego</a></p> 
-
-
-
 _______
 > ###### You've gotten this far... need a laugh? 
 > ![](https://readme-jokes.vercel.app/api "click me")
@@ -99,9 +91,6 @@ _______
 > Check out my repositories below. Thanks for stopping by!
 > 
 > [Back to Top](https://github.com/mccnick) 
-
-
-
 
 <!--
 **mccnick/mccnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
