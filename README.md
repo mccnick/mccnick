@@ -28,7 +28,7 @@ _______
 #### <p align="center"> 🌱 I am currently working on 🧠</p> 
 > · Learning Data Structures and Algorithms, both in class and on my own
 >
-> · Developing my own 3D outer space <a href="https://mccnick.github.io/">  portfolio </a> inspired by [three.JS](https://threejs.org/)
+> · Developing my own 3D outer space <a href="https://mccnick.github.io/">portfolio</a> inspired by [three.JS](https://threejs.org/)
 >
 > · Building an app to help Iowa State students
 >
