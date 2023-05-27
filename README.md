@@ -69,10 +69,6 @@ _______
 > · Building an app to help Iowa State students
 >
 > · Contributing to open source projects
-
-_______
-#### <p align="center"> <sup>*About me*</sup> / <sub>*Storytime*</sub> </p> 
->I went back to school in my late twenties after eight years in the finance industry (Ex-Toyota, Ex-Wells Fargo). I majored in Aerospace Engineering @ Iowa State University because of my love for flight vehicles both inside our atmosphere and beyond. My first two semesters, [while working full-time](https://www.registrar.iastate.edu/sites/default/files/uploads/info/DeansListF21Updated418.pdf "Dean's List"), I was introduced to programming specifically for aerospace applications and enjoyed it. The rest is history, I switched majors to Software Engineering that semester. SWE Intern @ John Deere 2022-2023.
 _______
 
 <p align="center">
