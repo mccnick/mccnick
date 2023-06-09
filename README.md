@@ -62,7 +62,7 @@ public class Me {
         if (hireable == true) {
             return "Let's chat! Message me on " + contactMe + ". Links above :)";
         } else {
-            return please + " reconsider " + experience;
+            return please + " reconsider: " + experience;
         }
     }
 }
