@@ -44,9 +44,10 @@ public class Me {
     public Me() {
         String name = "Nick McCullough";
         String[] personality = {"error: not found", "where is it?", "funny", "motivated"};
+	String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
         String[] hobbies = {"music", "aerospace enjoyer", "cars", "spoiling doggo", "gaming"};
-        String[] skills = {"software engineering", "aerospace background", "finance background", "leadership", "teamwork"};
-        String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
+	String[] technicalSkills = {"Java, Python, JavaScript, React, ReactNative, HTML/CSS, C/C++, MATLAB, git"}
+        String[] skills = {"software engineering", "aerospace background", "finance background", "teamwork"};
         String experience = "SWE Intern @ John Deere 22-23 and many years in finance industry.";
     }
     public boolean isNickSmart() {
