@@ -46,7 +46,7 @@ public class Me {
         String[] personality = {"error: not found", "where is it?", "funny", "motivated", "friendly"};
 	String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
         String[] hobbies = {"music", "aerospace enjoyer", "cars", "spoiling doggo", "gaming"};
-	String[] technicalSkills = {"Java", "Python", "JavaScript", "React", "ReactNative", "HTML/CSS", "C/C++", "git"}
+	String[] technicalSkills = {"Java", "Python", "JavaScript", "React", "ReactNative", "HTML/CSS", "C/C++"}
         String[] skills = {"software engineering", "aerospace background", "finance background", "teamwork"};
         String experience = "SWE Intern @ John Deere 22-23 and many years in finance industry.";
     }
