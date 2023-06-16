@@ -9,7 +9,7 @@
 	</p></h3>  
 	   <h3>
       <p align="center">Certificates I've completed: </p>
-      <p align="center"> <a href="https://github.com/mccnick/mccnick/files/11766325/JPMC.Forage.SWE.Lite.Certificate.pdf"> J.P. Morgan Chase </a> · </p>
+      <p align="center"> <a href="https://drive.google.com/file/d/1q0N18d8ZnroXdtc7PgIZF-tEUMQVqeXP/view?usp=sharing"> J.P. Morgan Chase </a> · </p>
     </h3>
 </div>
 <div><h3><p align="center"></p></h3></div>
