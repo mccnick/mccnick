@@ -9,7 +9,7 @@
 	</p></h3>  
 	   <h4>
       <p align="center">Software Engineering Certificates: </p>
-      <p align="center"> <a href="https://drive.google.com/file/d/1q0N18d8ZnroXdtc7PgIZF-tEUMQVqeXP/view?usp=sharing"> J.P. Morgan Chase </a> · </p>
+      <p align="center"> <a href="https://github.com/mccnick/mccnick/files/11772271/JPMC.Forage.SWE.Lite.Certificate.pdf"> J.P. Morgan Chase </a> · </p>
     </h4>
 </div>
 <div><h3><p align="center"></p></h3></div>
