@@ -8,7 +8,7 @@
 	 <a href="mailto:nickmcc@iastate.edu"> Email </a> · <a href="https://www.linkedin.com/in/mccnick/"> LinkedIn </a>· <a href="https://mccnick.github.io/">  Portfolio </a>  · <a href="https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=share_link"> Resume </a> · <a href="https://se.iastate.edu/"> <i> SE @ Iowa State - 2025</i> </a> 
 	</p></h3>  
 	   <h4>
-      <p align="center">Certificates I've completed: </p>
+      <p align="center">Software Engineering Certificates I've completed: </p>
       <p align="center"> <a href="https://drive.google.com/file/d/1q0N18d8ZnroXdtc7PgIZF-tEUMQVqeXP/view?usp=sharing"> J.P. Morgan Chase </a> · </p>
     </h4>
 </div>
