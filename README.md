@@ -15,7 +15,7 @@ _______
  _______
 	
 <h3><p align="center"> Software Engineering Certificates:</p></h3>
-<h4><p align="center"><a href="https://github.com/mccnick/certificates">README</a> · <a href="https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf"> JPMorgan Chase </a> · <a href="https://github.com/mccnick/certificates/blob/main/Wells%20Fargo%20SWE%20Certificate.pdf"> Wells Fargo </a> </p> </h4>
+<h4><p align="center"><a href="https://github.com/mccnick/certificates">**README**</a> · <a href="https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf"> JPMorgan Chase </a> · <a href="https://github.com/mccnick/certificates/blob/main/Wells%20Fargo%20SWE%20Certificate.pdf"> Wells Fargo </a> </p> </h4>
  
 </div>
 <div><h3><p align="center"></p></h3></div>
