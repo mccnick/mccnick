@@ -4,6 +4,8 @@
 
 <i><p align="center">  This page is a dedicated place where Nick blends his creativity with academic and professional work. </p></i>
 
+_______
+
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
 	<h3><p align="center">  
