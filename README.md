@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/91184284/233212165-f45b6b97-c9b6-4aec-8ba5-b64562d7b5a0.gif" alt="animated" />
 </p>
 
-<i><p align="center">  This page is a dedicated place where Nick blends his creativity with academic and professional work. </p></i>
+<i><p align="center">  This page serves a dedicated place blending creativity with academic and professional work. </p></i>
 
 _______
 
