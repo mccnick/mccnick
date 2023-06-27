@@ -105,31 +105,20 @@ _______
 
 <!--
 **mccnick/mccnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 // <p align="center">text</p>
-
 // ![ezgif com-optimize-3](https://user-images.githubusercontent.com/91184284/233018425-0625985b-379e-4fb4-894c-f9704a6d8907.gif)
-
 // ![ezgif com-video-to-gif-3](https://user-images.githubusercontent.com/91184284/233022270-8d005f6a-aaa8-459a-9321-76ee73c86161.gif)
-
 // ![ezgif com-crop-2](https://user-images.githubusercontent.com/91184284/232549394-da6c3eb5-e05e-44f8-9554-79f6ba9ebf4d.gif)
-
-
 // github most used programming languages chart (too much jupyter notebook)
 ![Most Committed Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mccnick&layout=compact&theme=theme)
-
 // falcon9 gif
 ![image](https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif)
- 
 // falcon9 centered
 <p align="center">
   <img src="https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif" alt="animated" />
 </p>
-
-
 // spotify
 ![Nick's recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=900&height=200)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3)
-
 ![finance](https://user-images.githubusercontent.com/91184284/232307962-e49c14f1-5fa5-451e-a068-d00e0ad2bc82.png)
 -->
