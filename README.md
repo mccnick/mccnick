@@ -53,35 +53,38 @@ _______
 
 ```java
 public class Me {
-    boolean isSmart, isCool, isFunny, needsCaffeine, needsSleep, hireable; 
+    boolean isSmart = true, isCool, isFunny, needsCaffeine, needsSleep, hireable = true; 
     String contactMe = "LinkedIn/email", please = "Please";
     
     public Me() {
         String name = "Nick McCullough";
         String[] personality = {"error: not found", "where is it?", "funny", "motivated", "friendly"};
-	String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
+        String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
         String[] hobbies = {"music", "aerospace enjoyer", "cars", "spoiling doggo", "gaming"};
-	String[] technicalSkills = {"Java", "Python", "JavaScript", "React", "ReactNative", "HTML/CSS", "C/C++"}
+        String[] technicalSkills = {"Java", "Python", "JavaScript", "React", "ReactNative", "HTML/CSS", "C/C++"};
         String[] skills = {"software engineering", "aerospace background", "finance background", "teamwork"};
         String experience = "SWE Intern @ John Deere 22-23 and many years in finance industry.";
     }
+
     public boolean isNickSmart() {
-        Me nick = new Me();
-        if (nick.isSmart) {
+        if (isSmart) {
             isCool = true; isFunny = true; hireable = true;
-	    return true;
-        } else { needsSleep = true; needsCaffeine = true; hireable = true; // please hire me anyway
+            return true;
+        } else { 
+            needsSleep = true; needsCaffeine = true; hireable = true; // please hire me anyway
             return false;
         }
     }
+
     public String hireMe() {
-        if (hireable == true) {
+        if (hireable) {
             return "Let's chat! Message me on " + contactMe + ". Links above :)";
         } else {
             return please + " reconsider: " + experience;
         }
     }
 }
+
 
 ```
 _______
