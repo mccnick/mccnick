@@ -55,9 +55,10 @@ _______
 
 ```java
 public class Me {
-    boolean isSmart = true, isCool, isFunny, needsCaffeine, needsSleep, hireable = true; 
+    boolean isSmart = true, isCool, isFunny, needsCaffeine, needsSleep, hireable = true;
     String contactMe = "LinkedIn/email", please = "Please";
-    
+    int attempts = 3;  // maximum number of attempts to hire
+
     public Me() {
         String name = "Nick McCullough";
         String[] personality = {"error: not found", "where is it?", "funny", "motivated", "friendly"};
@@ -79,13 +80,21 @@ public class Me {
     }
 
     public String hireMe() {
+        return recursiveHire(attempts);
+    }
+
+    private String recursiveHire(int attemptsLeft) {
         if (hireable) {
             return "Let's chat! Message me on " + contactMe + ". Links above :)";
+        } else if (attemptsLeft > 0) {
+            attemptsLeft--;
+            return recursiveHire(attemptsLeft);
         } else {
             return please + " reconsider: " + experience;
         }
     }
 }
+
 
 
 ```
