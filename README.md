@@ -57,7 +57,7 @@ _______
 public class Me {
     boolean isSmart = true, isCool, isFunny, needsCaffeine, needsSleep, hireable = true;
     String contactMe = "LinkedIn/email", please = "Please";
-    int attempts = 3;  // maximum number of attempts to hire
+    int hireAttempts = 3;  // maximum number of attempts to hire
 
     public Me() {
         String name = "Nick McCullough";
@@ -80,7 +80,7 @@ public class Me {
     }
 
     public String hireMe() {
-        return recursiveHire(attempts);
+        return recursiveHire(hireAttempts);
     }
 
     private String recursiveHire(int attemptsLeft) {
