@@ -57,7 +57,7 @@ _______
 public class Me {
     boolean isSmart = true, isCool, isFunny, needsCaffeine, needsSleep, hireable = true;
     String contactMe = "LinkedIn/email", please = "Please";
-    int hireAttempts = 3;  // maximum number of attempts to hire
+    int hireAttempts = 50;
 
     public Me() {
         String name = "Nick McCullough";
