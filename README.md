@@ -9,10 +9,11 @@ _______
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
+	  	  <h3><p align="center"> 👉 <a href="https://mccnick.github.io/"> My React Portfolio</a> 👈</p></h3>  
 	<h3><p align="center">  
 	 <a href="mailto:nickmcc@iastate.edu">Email</a> · <a href="https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link">Resume</a> · <a href="https://www.linkedin.com/in/mccnick/">LinkedIn</a>  </p></h3>
-	  <h3><p align="center"> 👉 <a href="https://mccnick.github.io/"> My React Portfolio</a> 👈</p></h3>  
-		<h3><p align="center"><a href="https://se.iastate.edu/"> <i> Software Engineering @ Iowa State '25</i> </a></p></h3>  
+
+<h3><p align="center"><a href="https://se.iastate.edu/"> <i> Software Engineering @ Iowa State '25</i> </a></p></h3>  
 
   
 
