@@ -123,7 +123,7 @@ _______
 > 
 > Check out my repositories below. Thanks for stopping by!
 > 
-> **Notice:** *All work in my repositories is my own work and are not to be copied.*
+> **Notice:** *All work in my repositories is my own work and is not to be copied.*
 > 
 > [Back to Top](https://github.com/mccnick)
 >
