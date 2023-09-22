@@ -18,22 +18,19 @@ _______
 <h3><p align="center"><a href="https://se.iastate.edu/"> <i> Software Engineering @ ISU '25</i> </a></p></h3>  
 -->
 
-<div style="display: flex; align-items: center; flex-direction: column; width: 100%; text-align: center;">
+<div align="center">
 
-  <h3 style="margin: 0;"><a href="https://mccnick.github.io/">My Portfolio</a></h3>
-  <h3 style="margin: 0;"><a href="mailto:nickmcc@iastate.edu">Email</a> · <a href="https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link">Resume</a> · <a href="https://www.linkedin.com/in/mccnick/">LinkedIn</a></h3>
-  <h3 style="margin: 0;"><a href="https://se.iastate.edu/"><i>Software Engineering @ ISU '25</i></a></h3>
+### [My Portfolio](https://mccnick.github.io/)
+
+### [Email](mailto:nickmcc@iastate.edu) · [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) · [LinkedIn](https://www.linkedin.com/in/mccnick/)
+
+### <p align="center"><a href="https://se.iastate.edu/"> <i> Software Engineering @ ISU '25</i> </a></p></h3>  
 
 </div>
 
-
-
-  
-
-
-
  _______
-	
+
+ 
 <h3><p align="center"> Software Engineering Certifications*</p></h3>
 <h3><p align="center"> <a href="https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf"> JPMorgan Chase </a> · <a href="https://github.com/mccnick/certificates/blob/main/Wells%20Fargo%20SWE%20Certificate.pdf"> Wells Fargo </a> · <a href="https://github.com/mccnick/certificates/blob/main/Goldman%20Sachs%20SWE%20Certificate.pdf"> Goldman Sachs </a> </p> </h3>
 <h5><p align="center"><i>*Please review the README file, found <a href="https://github.com/mccnick/certificates">here</a>, containing an overview of these certifications</i></p></h5>
