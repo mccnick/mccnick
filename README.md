@@ -8,6 +8,7 @@
 
 _______
 
+<!--
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
 	  	  <h3><p align="center"> <a href="https://mccnick.github.io/"> My Portfolio</a></p></h3>  
@@ -15,6 +16,17 @@ _______
 	 <a href="mailto:nickmcc@iastate.edu">Email</a> · <a href="https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link">Resume</a> · <a href="https://www.linkedin.com/in/mccnick/">LinkedIn</a>  </p></h3>
 
 <h3><p align="center"><a href="https://se.iastate.edu/"> <i> Software Engineering @ ISU '25</i> </a></p></h3>  
+-->
+
+<div style="display: flex; align-items: center; flex-direction: column; width: 100%; text-align: center;">
+
+  <h3 style="margin: 0;"><a href="https://mccnick.github.io/">My Portfolio</a></h3>
+  <h3 style="margin: 0;"><a href="mailto:nickmcc@iastate.edu">Email</a> · <a href="https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link">Resume</a> · <a href="https://www.linkedin.com/in/mccnick/">LinkedIn</a></h3>
+  <h3 style="margin: 0;"><a href="https://se.iastate.edu/"><i>Software Engineering @ ISU '25</i></a></h3>
+
+</div>
+
+
 
   
 
