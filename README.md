@@ -34,7 +34,7 @@ _______
 
 <div align="center">
 
-### Software Engineering Certifications
+<h3>Software Engineering Certifications</h3>
 
 [JPMorgan Chase](https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf) ·
 [Wells Fargo](https://github.com/mccnick/certificates/blob/main/Wells%20Fargo%20SWE%20Certificate.pdf) ·
