@@ -25,14 +25,13 @@ _______
 ### [Email](mailto:nickmcc@iastate.edu) · [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) · [LinkedIn](https://www.linkedin.com/in/mccnick/)
 
 ### <p align="center"><a href="https://se.iastate.edu/"> <i> Software Engineering @ ISU '25</i> </a></p></h3>  
-
 </div>
 
  _______
 
  <div align="center">
 
- [HackISUv2 Hackathon Project - Fall 2023](https://github.com/TateSamuD/HackISUv2_TNT)
+ #### [HackISUv2 Hackathon Project - Fall 2023](https://github.com/TateSamuD/HackISUv2_TNT)
 
  </div>
  
