@@ -8,23 +8,13 @@
 
 _______
 
-<!--
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-	  	  <h3><p align="center"> <a href="https://mccnick.github.io/"> My Portfolio</a></p></h3>  
-	<h3><p align="center">  
-	 <a href="mailto:nickmcc@iastate.edu">Email</a> · <a href="https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link">Resume</a> · <a href="https://www.linkedin.com/in/mccnick/">LinkedIn</a></h3>
-
-<h3><a href="https://se.iastate.edu/"> <i> Software Engineering @ ISU '25</i> </a></p></h3>  
--->
-
 <div align="center">
 
-#### [My Portfolio](https://mccnick.github.io/)
+### [My Portfolio](https://mccnick.github.io/)
 
-#### [Email](mailto:nickmcc@iastate.edu) · [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) · [LinkedIn](https://www.linkedin.com/in/mccnick/)
+### [Email](mailto:nickmcc@iastate.edu) · [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) · [LinkedIn](https://www.linkedin.com/in/mccnick/)
 
-#### <a href="https://se.iastate.edu/"> <i> Software Engineering @ ISU '25</i> </a>
+### <a href="https://se.iastate.edu/"> <i> Software Engineering @ ISU '25</i> </a>
 
 </div>
 
