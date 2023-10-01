@@ -22,7 +22,7 @@ _______
 
  <div align="center">
 
- #### [HackISUv2 Hackathon Project - Fall 2023](https://github.com/TateSamuD/HackISUv2_TNT)
+ #### [HackIowaStatev2 Hackathon Project - Fall 2023](https://github.com/TateSamuD/HackISUv2_TNT)
 
  </div>
  
