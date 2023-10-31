@@ -84,7 +84,7 @@ public class Me {
     private String experience = "SWE Intern @ Collins Aerospace 2024 and SWE Intern @ John Deere 22-23.";
 
     public boolean isNickSmart() {
-        if (isSmart) {
+        if (isSmart) { // I am, just trust me
             isCool = true; isFunny = true; hireable = true;
             return true;
         } 
