@@ -71,7 +71,7 @@ _______
 
 ```java
 public class Me {
-    private boolean isSmart = true, isCool, isFunny, needsCaffeine, needsSleep, hireable = true;
+    private boolean isSmart = true, isCool, isFunny, needsCaffeine, needsSleep, hireable = false;
     private String contactMe = "LinkedIn/email", please = "Please";
     private int hireAttempts = 50;
     
@@ -85,10 +85,10 @@ public class Me {
 
     public boolean isNickSmart() {
         if (isSmart) {
-            isCool = true, isFunny = true, hireable = true;
+            isCool = true; isFunny = true; hireable = true;
             return true;
         } 
-        needsSleep = true, needsCaffeine = true, hireable = true;
+        needsSleep = true; needsCaffeine = true; hireable = true;
         return false;
     }
 
