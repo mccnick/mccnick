@@ -81,7 +81,7 @@ public class Me {
     private String[] hobbies = {"music", "aerospace enjoyer", "cars", "spoiling doggo", "gaming"};
     private String[] technicalSkills = {"Java", "Python", "JavaScript", "React", "ReactNative", "HTML/CSS", "C/C++"};
     private String[] skills = {"software engineering", "aerospace background", "finance background", "teamwork"};
-    private String experience = "SWE Intern @ John Deere 22-23 and many years in finance industry.";
+    private String experience = "SWE Intern @ Collins Aerospace 2024 and SWE Intern @ John Deere 22-23.";
 
     public boolean isNickSmart() {
         if (isSmart) {
