@@ -71,45 +71,49 @@ _______
 
 ```java
 public class Me {
-    boolean isSmart = true, isCool, isFunny, needsCaffeine, needsSleep, hireable = true;
-    String contactMe = "LinkedIn/email", please = "Please";
-    int hireAttempts = 50;
-
-    public Me() {
-        String name = "Nick McCullough";
-        String[] personality = {"error: not found", "where is it?", "funny", "motivated", "friendly"};
-        String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
-        String[] hobbies = {"music", "aerospace enjoyer", "cars", "spoiling doggo", "gaming"};
-        String[] technicalSkills = {"Java", "Python", "JavaScript", "React", "ReactNative", "HTML/CSS", "C/C++"};
-        String[] skills = {"software engineering", "aerospace background", "finance background", "teamwork"};
-        String experience = "SWE Intern @ John Deere 22-23 and many years in finance industry.";
-    }
+    private boolean isSmart = true, isCool, isFunny, needsCaffeine, needsSleep, hireable = true;
+    private String contactMe = "LinkedIn/email", please = "Please";
+    private int hireAttempts = 50;
+    
+    private String name = "Nick McCullough";
+    private String[] personality = {"error: not found", "where is it?", "funny", "motivated", "friendly"};
+    private String[] student = {"Software Engineering", "Iowa State University", "expected graduation 2025"};
+    private String[] hobbies = {"music", "aerospace enjoyer", "cars", "spoiling doggo", "gaming"};
+    private String[] technicalSkills = {"Java", "Python", "JavaScript", "React", "ReactNative", "HTML/CSS", "C/C++"};
+    private String[] skills = {"software engineering", "aerospace background", "finance background", "teamwork"};
+    private String experience = "SWE Intern @ John Deere 22-23 and many years in finance industry.";
 
     public boolean isNickSmart() {
         if (isSmart) {
-            isCool = true; isFunny = true; hireable = true;
+            isCool = true, isFunny = true, hireable = true;
             return true;
-        } else { 
-            needsSleep = true; needsCaffeine = true; hireable = true; // please hire me anyway
-            return false;
-        }
+        } 
+        needsSleep = true, needsCaffeine = true, hireable = true;
+        return false;
     }
 
     public String hireMe() {
-        return recursiveHire(hireAttempts);
-    }
+    return recursiveHire(hireAttempts);
+}
 
-    private String recursiveHire(int attemptsLeft) {
-        if (hireable) {
-            return "Let's chat! Message me on " + contactMe + ". Links above :)";
-        } else if (attemptsLeft > 0) {
-            attemptsLeft--;
-            return recursiveHire(attemptsLeft);
+private String recursiveHire(int attemptsLeft) {
+    if (hireable) {
+        return "Let's chat! Message me on " + contactMe + ". Links above :)";
+    } else if (attemptsLeft > 0) {
+        if (attemptsLeft == 40) {
+            return "Still not convinced? Alright, let's try again... " + recursiveHire(attemptsLeft - 1);
+        } else if (attemptsLeft == 20) {
+            return "Halfway through my persistence! Giving up yet? I'm not. " + recursiveHire(attemptsLeft - 1);
+        } else if (attemptsLeft == 5) {
+            return "Only 5 tries left! Do you really want to miss out on a great engineer? " + recursiveHire(attemptsLeft - 1);
         } else {
-            return please + " reconsider: " + experience;
+            return recursiveHire(attemptsLeft - 1);
         }
+    } else {
+        return "Seriously?.." + please + " reconsider: " + experience;
     }
 }
+
 
 
 
