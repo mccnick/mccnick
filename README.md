@@ -40,13 +40,13 @@ _______
   <table>
     <tr>
       <td style="text-align: center;">
-        <img src="https://github.com/mccnick/mccnick/assets/91184284/00d20352-a8af-44bc-858d-47c41633aa0f" alt="Image 1" width="300" height="200" />
+        <img src="https://github.com/mccnick/mccnick/assets/91184284/ca03742d-024d-488f-8623-af6678c6d0da" alt="Image 1" width="300" height="200" />
         <br>
          <p align="center"> <b>Software Engineer Intern </b></p>
         <p align="center"> <i> Jan 2024 - Aug 2024 </i> </p>
       </td>
       <td style="text-align: center;">
-        <img src="https://github.com/mccnick/mccnick/assets/91184284/12670fde-2c9a-4b52-be79-2a4c6dcb7130" alt="Image 2" width="300" height="200"/>
+        <img src="https://github.com/mccnick/mccnick/assets/91184284/68c68aa6-919e-4deb-b3af-e2fdbd0a0470" alt="Image 2" width="300" height="200"/>
         <br> 
         <p align="center"> <b>Software Engineer Intern </b> </p>
         <p align="center">  <i>July 2022 - Apr 2023 </i></p>
