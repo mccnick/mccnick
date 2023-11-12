@@ -32,11 +32,7 @@ _______
 _______
 
 
-<h3> <div align="center"> I have professional software engineering experience at these companies: </div> </h3>
-
-
-
-
+### <div align="center"> Professional Experience: </div>
 
 <div align="center">
   <table>
