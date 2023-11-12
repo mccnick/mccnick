@@ -20,13 +20,11 @@ _______
 
 _______
 
-<!--
-Nick notes:
+<!-- Nick notes:
 - HD Images.
 - Black/White - invert to black if needed.
 - Resize, while centered, on iPhone to 7x5 ratio.
 - Image art made using Picsart app -> effects -> Color Gradient -> All 0, then Fade effect is set to 55%
-
 -->
 
 <div align="center"> <b>Professional Experience:</b> </div>
