@@ -46,7 +46,7 @@ _______
         <p align="center"> <i> Jan 2024 - Aug 2024 </i> </p>
       </td>
       <td style="text-align: center;">
-        <img src="https://github.com/mccnick/mccnick/assets/91184284/bf06a684-1a4b-4cfe-ae22-23f43412086c" alt="Image 2" width="300" height="200"/>
+        <img src="https://github.com/mccnick/mccnick/assets/91184284/12670fde-2c9a-4b52-be79-2a4c6dcb7130" alt="Image 2" width="300" height="200"/>
         <br> 
         <p align="center"> <b>Software Engineer Intern </b> </p>
         <p align="center">  <i>July 2022 - Apr 2023 </i></p>
