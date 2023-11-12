@@ -24,8 +24,6 @@ Nick notes:
 
 -->
 
-<br>
-
 <div align="center">
   <table>
     <tr>
