@@ -32,7 +32,7 @@ _______
 _______
 
 
-### <div align="center"> Professional Experience: </div>
+<div align="center"> <b>Professional Experience: </b> </div>
 
 <div align="center">
   <table>
