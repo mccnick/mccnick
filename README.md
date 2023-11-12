@@ -37,11 +37,15 @@ _______
 </div>
 
 
+_______
 
-
-
+<div align="center">
+My experience:
+</div>
 
 _______
+
+
 
 | 🧩 **Relevant Coursework** |👨‍💻 **Software Engineering Projects** | 🚀 **Aerospace Engineering Projects** 
 | :-------------: | :-------------: | :-------------: |
