@@ -9,6 +9,8 @@ _______
 <div align="center">
 
 ####   [Portfolio](https://mccnick.github.io/) ▪ [Email](mailto:nickmcc@iastate.edu) ▪ [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) ▪ [LinkedIn](https://www.linkedin.com/in/mccnick/) ▪ <a href="https://se.iastate.edu/"> <i> Software Engineering @ ISU '25</i> </a>
+
+#### <b>Software Engineering Certifications ([README](https://github.com/mccnick/certificates)) from: [JPMorgan Chase](https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf) · [Wells Fargo](https://github.com/mccnick/certificates/blob/main/Wells%20Fargo%20SWE%20Certificate.pdf) · [Goldman Sachs](https://github.com/mccnick/certificates/blob/main/Goldman%20Sachs%20SWE%20Certificate.pdf) 
 </div>
  
 
@@ -41,24 +43,6 @@ Nick notes:
     </tr>
   </table>
 </div>
-
-
-_______
- 
-
-<div align="center">
-
-<b>Software Engineering Certifications: </b>
-
-
-#### <b>[JPMorgan Chase](https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf) · [Wells Fargo](https://github.com/mccnick/certificates/blob/main/Wells%20Fargo%20SWE%20Certificate.pdf) · [Goldman Sachs](https://github.com/mccnick/certificates/blob/main/Goldman%20Sachs%20SWE%20Certificate.pdf) </b>
-
-*Please review the README file, found [here](https://github.com/mccnick/certificates), containing an overview of these certifications*
-
-</div>
-
-
-
 
 
 
