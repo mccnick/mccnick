@@ -36,9 +36,19 @@ _______
 
 
 <div align="center">
-   <img src="https://github.com/mccnick/mccnick/assets/91184284/62fadf1d-a074-47cc-aef7-655307baa931" width="375" height="275" style="margin-right: 20px;"/>
-   <img src="https://github.com/mccnick/mccnick/assets/91184284/c37fac67-2592-4b49-b4aa-37e38bf01007" width="375" height="275"/>
+  <!-- Container for the first image and its content -->
+  <div style="display: inline-block; width: 375px; margin-right: 20px; text-align: center;">
+    <img src="https://github.com/mccnick/mccnick/assets/91184284/62fadf1d-a074-47cc-aef7-655307baa931" alt="Image 1" style="width:100%; height:auto;"/>
+    <p>Content for the first image</p>
+  </div>
+  <!-- Container for the second image and its content -->
+  <div style="display: inline-block; width: 375px; text-align: center;">
+    <img src="https://github.com/mccnick/mccnick/assets/91184284/c37fac67-2592-4b49-b4aa-37e38bf01007" alt="Image 2" style="width:100%; height:auto;"/>
+    <p>Content for the second image</p>
+  </div>
 </div>
+
+
 
 
 
