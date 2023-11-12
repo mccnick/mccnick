@@ -13,10 +13,6 @@ _______
   <b>SWE Certifications (<a href="https://github.com/mccnick/certificates">README</a>) from: <a href="https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf">JPMorgan Chase</a> ∙ <a href="https://github.com/mccnick/certificates/blob/main/Wells%20Fargo%20SWE%20Certificate.pdf">Wells Fargo</a> ∙ <a href="https://github.com/mccnick/certificates/blob/main/Goldman%20Sachs%20SWE%20Certificate.pdf">Goldman Sachs</a>
 </b></div>
 
- <!--
-<a href="https://github.com/mccnick/certificates/blob/main/Goldman%20Sachs%20SWE%20Certificate.pdf">Goldman Sachs</a>
-
--->
 
 _______
 
@@ -29,7 +25,6 @@ _______
 
 <div align="center"> <b>Professional Experience:</b> </div>
 <br>
-
 
 <div align="center">
   <table>
@@ -51,8 +46,6 @@ _______
     </tr>
   </table>
 </div>
-
-
 
 _______
 
