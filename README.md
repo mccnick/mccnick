@@ -25,7 +25,7 @@ Nick notes:
 
 -->
 
-<div align="center"> <b>Professional Software Engineering Experience:</b> </div>
+<div align="center"> <b>Professional Experience:</b> </div>
 <br>
 
 
