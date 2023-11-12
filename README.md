@@ -13,14 +13,6 @@ _______
 ### [Portfolio](https://mccnick.github.io/) ▪ [Email](mailto:nickmcc@iastate.edu) ▪ [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) ▪ [LinkedIn](https://www.linkedin.com/in/mccnick/) ▪ <a href="https://se.iastate.edu/"> <i> Software Engineering @ ISU '25</i> </a>
 
 </div>
-
-_______
-
- <div align="center">
-
- ### [HackIowaStateV2 Project](https://github.com/TateSamuD/HackISUv2_TNT) - [Event Details](https://kreativehorizon.com/events/hackisu-v2)
-
- </div>
  
 _______
  
@@ -53,6 +45,11 @@ _______
 
 _______
 
+ <div align="center">
+
+ ### [HackIowaStateV2 Project](https://github.com/TateSamuD/HackISUv2_TNT) - [Event Details](https://kreativehorizon.com/events/hackisu-v2)
+
+ </div>
 
 
 | 🧩 **Relevant Coursework** |👨‍💻 **Software Engineering Projects** | 🚀 **Aerospace Engineering Projects** 
