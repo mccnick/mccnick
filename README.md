@@ -35,18 +35,29 @@ _______
 <h3> <div align="center"> I have professional software engineering experience at these companies: </div> </h3>
 
 
+
+
+
 <div align="center">
-  <!-- Container for the first image and its content -->
-  <div style="display: inline-block; width: 375px; margin-right: 20px; text-align: center;">
-    <img src="https://github.com/mccnick/mccnick/assets/91184284/62fadf1d-a074-47cc-aef7-655307baa931" alt="Image 1" style="width:100%; height:auto;"/>
-    <p>Content for the first image</p>
-  </div>
-  <!-- Container for the second image and its content -->
-  <div style="display: inline-block; width: 375px; text-align: center;">
-    <img src="https://github.com/mccnick/mccnick/assets/91184284/c37fac67-2592-4b49-b4aa-37e38bf01007" alt="Image 2" style="width:100%; height:auto;"/>
-    <p>Content for the second image</p>
-  </div>
+  <table>
+    <tr>
+      <td style="text-align: center;">
+        <img src="https://github.com/mccnick/mccnick/assets/91184284/62fadf1d-a074-47cc-aef7-655307baa931" alt="Image 1" width="375" height="275" />
+        <br>
+         <p align="center"> <b>Software Engineer Intern </b></p>
+        <p align="center"> <i> Jan 2024 - Aug 2024 </i> </p>
+      </td>
+      <td style="text-align: center;">
+        <img src="https://github.com/mccnick/mccnick/assets/91184284/c37fac67-2592-4b49-b4aa-37e38bf01007" alt="Image 2" width="375" height="275"/>
+        <br> 
+        <p align="center"> <b>Software Engineer Intern </b> </p>
+        <p align="center">  <i>July 2022 - Apr 2023 </i></p>
+      </td>
+    </tr>
+  </table>
 </div>
+
+
 
 
 
