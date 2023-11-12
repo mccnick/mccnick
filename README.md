@@ -18,8 +18,8 @@ _______
 Nick notes:
 - HD Images.
 - Black/White - invert to black if needed.
-- Resize on iPhone to 7x5 ratio.
-- Image art made using Picsart app -> effects -> Color Gradient -> All 0, then Fade is at 55%
+- Resize, while centered, on iPhone to 7x5 ratio.
+- Image art made using Picsart app -> effects -> Color Gradient -> All 0, then Fade effect is set to 55%
 
 -->
 
