@@ -26,7 +26,7 @@ Nick notes:
 -->
 
 <div align="center"> <h3>Professional Experience:</h3> </div>
-<br>
+
 
 <div align="center">
   <table>
