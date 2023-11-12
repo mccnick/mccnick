@@ -36,8 +36,8 @@ _______
 
 
 <div align="center">
-   <img src="https://github.com/mccnick/mccnick/assets/91184284/62fadf1d-a074-47cc-aef7-655307baa931" width="400" height="300" style="margin-right: 20px;"/>
-   <img src="https://github.com/mccnick/mccnick/assets/91184284/c37fac67-2592-4b49-b4aa-37e38bf01007" width="400" height="300"/>
+   <img src="https://github.com/mccnick/mccnick/assets/91184284/62fadf1d-a074-47cc-aef7-655307baa931" width="375" height="275" style="margin-right: 20px;"/>
+   <img src="https://github.com/mccnick/mccnick/assets/91184284/c37fac67-2592-4b49-b4aa-37e38bf01007" width="375" height="275"/>
 </div>
 
 
