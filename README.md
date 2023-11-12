@@ -30,15 +30,13 @@ Nick notes:
         <img src="https://github.com/mccnick/mccnick/assets/91184284/39fa176d-7377-404f-a094-576038f405fc" alt="Collins Aerospace" width="300" height="200" />
         <br>
          <p align="center"> <b>Software Engineer Intern </b></p>
-        <p align="center"> <i>Avionics FMS & Controls Team </i></p>
-        <p align="center"> Jan 2024 - Aug 2024  </p>
+        <p align="center"> <i>Avionics FMS & Controls Team, 2024 </i></p>
       </td>
       <td style="text-align: center;">
         <img src="https://github.com/mccnick/mccnick/assets/91184284/a57f1900-b33e-43b0-873a-b96a5191298c" alt="John Deere" width="300" height="200"/>
         <br> 
         <p align="center"> <b>Software Engineer Intern </b> </p>
-         <p align="center"> <i>Product Engineering Team </i></p>
-        <p align="center"> July 2022 - Apr 2023 </p>
+         <p align="center"> <i>Product Engineering Team, 2022-2023 </i></p>
       </td>
     </tr>
   </table>
