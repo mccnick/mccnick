@@ -51,7 +51,7 @@ _______
 <b>Software Engineering Certifications: </b>
 
 
-<b>[JPMorgan Chase](https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf) · [Wells Fargo](https://github.com/mccnick/certificates/blob/main/Wells%20Fargo%20SWE%20Certificate.pdf) · [Goldman Sachs](https://github.com/mccnick/certificates/blob/main/Goldman%20Sachs%20SWE%20Certificate.pdf) </b>
+#### <b>[JPMorgan Chase](https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf) · [Wells Fargo](https://github.com/mccnick/certificates/blob/main/Wells%20Fargo%20SWE%20Certificate.pdf) · [Goldman Sachs](https://github.com/mccnick/certificates/blob/main/Goldman%20Sachs%20SWE%20Certificate.pdf) </b>
 
 *Please review the README file, found [here](https://github.com/mccnick/certificates), containing an overview of these certifications*
 
