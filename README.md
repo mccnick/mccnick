@@ -39,9 +39,17 @@ _______
 
 _______
 
+
+<h3> <div align="center"> I have professional software engineering experience at these companies: </div> </h3>
+
+
 <div align="center">
-My experience:
+   <img src="https://github.com/mccnick/mccnick/assets/91184284/62fadf1d-a074-47cc-aef7-655307baa931" width="400" height="300" style="margin-right: 20px;"/>
+   <img src="https://github.com/mccnick/mccnick/assets/91184284/c37fac67-2592-4b49-b4aa-37e38bf01007" width="400" height="300"/>
 </div>
+
+
+
 
 _______
 
