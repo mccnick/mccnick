@@ -93,7 +93,11 @@ _______
 
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,react,js,threejs,vue,nodejs,c,cpp,html,css,git,latex)](https://skillicons.dev)
 
+
+<!--
 _______
+
+
 
 #### <p align="center"> 🌱 I am currently working on 🧠</p> 
 > · Learning <a href="https://github.com/mccnick/COMS-228">Data Structures and Algorithms</a>, both in class and on my own
@@ -103,6 +107,8 @@ _______
 > · Building an app to help Iowa State students
 >
 > · Contributing to open source projects
+
+-->
 
 _______
 
