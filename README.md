@@ -50,7 +50,6 @@ _______
 _______
 
 <div align="center"> <b>Full-Stack Experience:</b> </div>
-<br>
 
 
 <div align="center">
