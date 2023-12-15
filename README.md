@@ -22,7 +22,7 @@ _______
 
 <div align="center">
   
-#### [Android App](github.com/mccnick) (See my awards [here](github.com/mccnick))  ∙ [SERN Stack (Catalog)](github.com/mccnick) + [Video](github.com/mccnick) ∙ [MERN Stack (API/CRUD Practice)](github.com/mccnick) + [Video](github.com/mccnick)
+#### [Android App](github.com/mccnick) (See my [awards](github.com/mccnick)) + [Video](github.com/mccnick)  ∙ [SERN Stack (Catalog)](github.com/mccnick) + [Video](github.com/mccnick) ∙ [MERN Stack (API/CRUD Practice)](github.com/mccnick) + [Video](github.com/mccnick)
 
 </div>
 
