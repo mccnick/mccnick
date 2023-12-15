@@ -53,9 +53,10 @@ _______
 <br>
 
 
-<div align="center">
+#### <div align="center">
 [Android App](github.com/mccnick) (See my awards [here](github.com/mccnick))  ∙ [SERN Stack (Catalog)](github.com/mccnick) + [Video](github.com/mccnick) ∙ [MERN Stack (API/CRUD Practice)](github.com/mccnick) + [Video](github.com/mccnick)
 </div>
+
 
 _______
 
