@@ -13,13 +13,10 @@ _______
 ####  [Portfolio](https://mccnick.github.io/) ∙ [Email](mailto:nickmcc@iastate.edu) ∙ [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) ∙ [LinkedIn](https://www.linkedin.com/in/mccnick/) ∙ [Certifications](https://github.com/mccnick/certificates)
 
 
+<!-- 
 
 
-_______
-
-
-
-<!-- Nick notes:
+Nick notes:
 - HD Images.
 - Black/White - invert to black if needed.
 - Resize, while centered, on iPhone to 7x5 ratio.
