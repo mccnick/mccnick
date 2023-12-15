@@ -8,11 +8,7 @@ _______
 
 <div align="center">
 
-####  [Portfolio](https://mccnick.github.io/) ∙ [Email](mailto:nickmcc@iastate.edu) ∙ [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) ∙ [LinkedIn](https://www.linkedin.com/in/mccnick/)
-
-  <b>SWE Certifications (<a href="https://github.com/mccnick/certificates">README</a>) from: <a href="https://github.com/mccnick/certificates/blob/main/JPMC%20Forage%20SWE%20Lite%20Certificate.pdf">JPMorgan Chase</a> ∙ <a href="https://github.com/mccnick/certificates/blob/main/Wells%20Fargo%20SWE%20Certificate.pdf">Wells Fargo</a> ∙ <a href="https://github.com/mccnick/certificates/blob/main/Goldman%20Sachs%20SWE%20Certificate.pdf">Goldman Sachs</a>
-</b></div>
-
+####  [Portfolio](https://mccnick.github.io/) ∙ [Email](mailto:nickmcc@iastate.edu) ∙ [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) ∙ [LinkedIn](https://www.linkedin.com/in/mccnick/) ∙ [Certifications](https://github.com/mccnick/certificates)
 
 
 _______
