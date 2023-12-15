@@ -50,8 +50,12 @@ _______
 _______
 
 
-<div align="center"> <b>Full-Stack Experience:</b> </div>
+<div align="center"> <b>Full-Stack Experience:</b> 
 <br>
+
+
+####  [Android App](github.com/mccnick) - [Awards](github.com/mccnick)  ∙ [SERN Stack (Catalog)](github.com/mccnick) ∙ [MERN Stack (API/CRUD Practice)](github.com/mccnick)
+</div>
 
 _______
 
