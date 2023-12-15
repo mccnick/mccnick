@@ -49,6 +49,10 @@ _______
 
 _______
 
+<div align="center"> <b>Full-Stack Experience:</b> </div>
+<br>
+_______
+
 
 | 📚 **Relevant Coursework** |👨‍💻 **Software Engineering Projects** | 🚀 **Aerospace Engineering Projects** 
 | :-------------: | :-------------: | :-------------: |
