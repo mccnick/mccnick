@@ -14,7 +14,22 @@ _______
 </b></div>
 
 
+
 _______
+
+<div align="center"> <b>Full-Stack Experience:</b> </div>
+
+
+<div align="center">
+  
+#### [Android App](github.com/mccnick) (See my awards [here](github.com/mccnick))  ∙ [SERN Stack (Catalog)](github.com/mccnick) + [Video](github.com/mccnick) ∙ [MERN Stack (API/CRUD Practice)](github.com/mccnick) + [Video](github.com/mccnick)
+
+</div>
+
+
+_______
+
+
 
 <!-- Nick notes:
 - HD Images.
@@ -45,17 +60,6 @@ _______
       </td>
     </tr>
   </table>
-</div>
-
-_______
-
-<div align="center"> <b>Full-Stack Experience:</b> </div>
-
-
-<div align="center">
-  
-#### [Android App](github.com/mccnick) (See my awards [here](github.com/mccnick))  ∙ [SERN Stack (Catalog)](github.com/mccnick) + [Video](github.com/mccnick) ∙ [MERN Stack (API/CRUD Practice)](github.com/mccnick) + [Video](github.com/mccnick)
-
 </div>
 
 
