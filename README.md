@@ -18,7 +18,7 @@ _______
 
 #### Full-Stack Development Experience: (more projects below!)
   
-####  [Android App](https://github.com/mccnick) (See my [awards](https://github.com/mccnick) | [Video](https://github.com/mccnick)) ∙ [SERN: Catalog](https://github.com/mccnick) ([Video](https://github.com/mccnick)) ∙ [MERN: API/CRUD Practice](https://github.com/mccnick) ([Video](https://github.com/mccnick))
+####  [Android App](https://github.com/mccnick) ([Awards](https://github.com/mccnick) | [Video](https://github.com/mccnick)) ∙ [SERN: Catalog](https://github.com/mccnick) ([Video](https://github.com/mccnick)) ∙ [MERN: API/CRUD Practice](https://github.com/mccnick) ([Video](https://github.com/mccnick))
 
 </div>
 
