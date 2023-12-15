@@ -24,7 +24,7 @@ _______
 
 #### 🥞 Full-Stack Development 🥞
   
-####  [🤖 Android App](https://github.com/mccnick/MovieMagnet) → [ 🏆 ](https://drive.google.com/file/d/102cRfdgZHHX7RKtiBY2ifmtN_wIMyMYG/view) , [ 🎥 ](https://drive.google.com/file/d/1y7Od1rRmp6tVQmu3a-cz0oVwLy3YiD5V/view) ⎯ [ 🛒 SERN Catalog](https://github.com/mccnick/secoms319_final-project) → [ 🎥 ](https://drive.google.com/file/d/1nxG3R4IcUu5jWZq0ayOvqRaGrGpQ_DCc/view?usp=drive_link) ⎯ [🌐 MERN API Practice](https://github.com/mccnick) → [ 🎥 ](https://github.com/mccnick)
+####  [🤖 Android App](https://github.com/mccnick/MovieMagnet) → [ 🏆 ](https://drive.google.com/file/d/102cRfdgZHHX7RKtiBY2ifmtN_wIMyMYG/view) , [ 🎥 ](https://drive.google.com/file/d/1y7Od1rRmp6tVQmu3a-cz0oVwLy3YiD5V/view) ‎ ‎ ‎  [ 🛒 SERN Catalog](https://github.com/mccnick/secoms319_final-project) → [ 🎥 ](https://drive.google.com/file/d/1nxG3R4IcUu5jWZq0ayOvqRaGrGpQ_DCc/view?usp=drive_link) ‎ ‎ ‎  [🌐 MERN API Practice](https://github.com/mccnick) → [ 🎥 ](https://github.com/mccnick)
 
 </div>
 
