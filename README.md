@@ -13,18 +13,6 @@ _______
 ####  [Portfolio](https://mccnick.github.io/) ∙ [Email](mailto:nickmcc@iastate.edu) ∙ [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) ∙ [LinkedIn](https://www.linkedin.com/in/mccnick/) ∙ [Certifications](https://github.com/mccnick/certificates)
 
 
-_______
-
-
-<div align="center"> 
-
-#### Full-Stack Development Experience: (more projects below!)
-  
-####  [Android App](https://github.com/mccnick/MovieMagnet) ([Awards](https://drive.google.com/file/d/102cRfdgZHHX7RKtiBY2ifmtN_wIMyMYG/view) | [Video](https://drive.google.com/file/d/1y7Od1rRmp6tVQmu3a-cz0oVwLy3YiD5V/view)) ∙ [SERN: Catalog](https://github.com/mccnick/secoms319_final-project) ([Video](https://drive.google.com/file/d/1nxG3R4IcUu5jWZq0ayOvqRaGrGpQ_DCc/view?usp=drive_link)) ∙ [MERN: API/CRUD Practice](https://github.com/mccnick) ([Video](https://github.com/mccnick))
-
-</div>
-
-
 
 
 _______
@@ -60,6 +48,18 @@ _______
       </td>
     </tr>
   </table>
+</div>
+
+
+_______
+
+
+<div align="center"> 
+
+#### Full-Stack Development Experience: (more projects below!)
+  
+####  [Android App](https://github.com/mccnick/MovieMagnet) ([Awards](https://drive.google.com/file/d/102cRfdgZHHX7RKtiBY2ifmtN_wIMyMYG/view) | [Video](https://drive.google.com/file/d/1y7Od1rRmp6tVQmu3a-cz0oVwLy3YiD5V/view)) ∙ [SERN: Catalog](https://github.com/mccnick/secoms319_final-project) ([Video](https://drive.google.com/file/d/1nxG3R4IcUu5jWZq0ayOvqRaGrGpQ_DCc/view?usp=drive_link)) ∙ [MERN: API/CRUD Practice](https://github.com/mccnick) ([Video](https://github.com/mccnick))
+
 </div>
 
 
