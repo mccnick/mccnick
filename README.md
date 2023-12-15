@@ -49,11 +49,11 @@ _______
 
 _______
 
-### <div align="center"> <b>Full-Stack Experience:</b> </div>
+<div align="center"> <b>Full-Stack Experience:</b> </div>
 <br>
 
 
-### <div align="center">
+<div align="center">
 [Android App](github.com/mccnick) (See my awards [here](github.com/mccnick))  ∙ [SERN Stack (Catalog)](github.com/mccnick) + [Video](github.com/mccnick) ∙ [MERN Stack (API/CRUD Practice)](github.com/mccnick) + [Video](github.com/mccnick)
 </div>
 
