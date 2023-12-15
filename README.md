@@ -8,9 +8,10 @@ _______
 
 -->
 
+
 <div align="center">
 
-###  [Portfolio](https://mccnick.github.io/) ∙ [Email](mailto:nickmcc@iastate.edu) ∙ [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) ∙ [LinkedIn](https://www.linkedin.com/in/mccnick/) ∙ [Certifications](https://github.com/mccnick/certificates)
+### ⚡️ [Portfolio](https://mccnick.github.io/) ∙ [Email](mailto:nickmcc@iastate.edu) ∙ [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) ∙ [LinkedIn](https://www.linkedin.com/in/mccnick/) ∙ [Certifications](https://github.com/mccnick/certificates) ⚡️
 
 
 </div>
