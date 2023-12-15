@@ -15,12 +15,11 @@ _______
 
 
 <div align="center"> 
-    <b>Full-Stack Development Experience:</b>
-    <br>
-    <br>
-    <a href="https://github.com/mccnick">Android App</a> (See my <a href="https://github.com/mccnick">awards</a> | <a href="https://github.com/mccnick">Video</a>) ∙ 
-    <a href="https://github.com/mccnick">SERN: Catalog</a> (<a href="https://github.com/mccnick">Video</a>) ∙ 
-    <a href="https://github.com/mccnick">MERN: API/CRUD Practice</a> (<a href="https://github.com/mccnick">Video</a>)
+
+#### Full-Stack Development Experience:
+  
+####  [Android App](https://github.com/mccnick) (See my [awards](https://github.com/mccnick) | [Video](https://github.com/mccnick)) ∙ [SERN: Catalog](https://github.com/mccnick) ([Video](https://github.com/mccnick)) ∙ [MERN: API/CRUD Practice](https://github.com/mccnick) ([Video](https://github.com/mccnick))
+
 </div>
 
 
