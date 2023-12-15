@@ -81,6 +81,11 @@ _______
   <img src="https://user-images.githubusercontent.com/91184284/233212165-f45b6b97-c9b6-4aec-8ba5-b64562d7b5a0.gif" alt="animated" />
 </p>
 
+
+ _______
+
+[![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,react,js,threejs,vue,nodejs,c,cpp,html,css,git,latex)](https://skillicons.dev)
+
 _______
 
 
@@ -89,9 +94,6 @@ _______
 
  <img src="https://user-images.githubusercontent.com/91184284/232395192-d8884757-79af-4b8b-9e43-384513f3672f.gif" alt="Your gif" height="250"/><img src="https://spotify-recently-played-readme.vercel.app/api?user=7iosa6zosbstnzn6jxm1s0qqc&count=3&width=570" height="250" width="670"/>  
 
- _______
-
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,py,vscode,react,js,threejs,vue,nodejs,c,cpp,html,css,git,latex)](https://skillicons.dev)
 
 
 <!--
