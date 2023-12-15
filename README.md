@@ -17,7 +17,7 @@ _______
 
 _______
 
-<div align="center"> <b>Full-Stack Experience:</b> </div>
+<div align="center"> <b>Full-Stack Development Experience:</b> </div>
 
 
 <div align="center">
