@@ -11,7 +11,7 @@ _______
 
 <div align="center">
 
-###  ⚡️  [Portfolio](https://mccnick.github.io/) ∙ [Email](mailto:nickmcc@iastate.edu), [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) ∙ [LinkedIn](https://www.linkedin.com/in/mccnick/) ∙ [Certifications](https://github.com/mccnick/certificates)  ⚡️ 
+###  ⚡️  [Portfolio](https://mccnick.github.io/) ∙ [Email](mailto:nickmcc@iastate.edu) ∙ [Resume](https://drive.google.com/file/d/1YG5odbzS6yKjkB5AG4blCoKE7mjjN-I-/view?usp=drive_link) ∙ [LinkedIn](https://www.linkedin.com/in/mccnick/) ∙ [Certifications](https://github.com/mccnick/certificates)  ⚡️ 
 
 
 </div>
@@ -31,7 +31,7 @@ _______
 -->
 
 
-| 🤖 [**Android App**](https://github.com/mccnick/MovieMagnet) → [ [Awards 🏆](https://drive.google.com/file/d/102cRfdgZHHX7RKtiBY2ifmtN_wIMyMYG/view) ∙ [Video 🎥](https://vimeo.com/895602048?share=copy) ]  | 🐬 [**SERN Catalog**](https://github.com/mccnick/secoms319_final-project) → [ [Video 🎥](https://vimeo.com/895598404?share=copy) ] | 🍃 [**MERN API Practice**](https://github.com/mccnick/API-practice) → [ [Video 🎥](https://drive.google.com/file/d/1a1esm8EvhYQ_tlZI9EWVY2CphCVgo27o/view?usp=drive_link) ]
+| 🤖 [**Android App**](https://github.com/mccnick/MovieMagnet) → [ [Awards 🏆](https://drive.google.com/file/d/102cRfdgZHHX7RKtiBY2ifmtN_wIMyMYG/view), [Video 🎥](https://vimeo.com/895602048?share=copy) ]  | 🐬 [**SERN Catalog**](https://github.com/mccnick/secoms319_final-project) → [ [Video 🎥](https://vimeo.com/895598404?share=copy) ] | 🍃 [**MERN API Practice**](https://github.com/mccnick/API-practice) → [ [Video 🎥](https://drive.google.com/file/d/1a1esm8EvhYQ_tlZI9EWVY2CphCVgo27o/view?usp=drive_link) ]
 | :-------------: | :-------------: | :-------------: |
 
 
