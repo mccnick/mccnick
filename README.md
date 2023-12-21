@@ -26,7 +26,7 @@ _______
 
 </div>
   
-<!-- [🤖 Android App](https://github.com/mccnick/MovieMagnet)  ‎‎‎ㅤㅤㅤ [ 🛒 SERN Catalog](https://github.com/mccnick/secoms319_final-project) → [ 🎥 ](https://drive.google.com/file/d/1nxG3R4IcUu5jWZq0ayOvqRaGrGpQ_DCc/view?usp=drive_link) ㅤㅤㅤ [🍃 MERN API Practice](https://github.com/mccnick) → [ 🎥 ](https://github.com/mccnick)
+<!-- [🤖 Android App](https://github.com/mccnick/MovieMagnet)  ‎‎‎ㅤㅤㅤ [ 🛒 Merch Catalog](https://github.com/mccnick/secoms319_final-project) → [ 🎥 ](https://drive.google.com/file/d/1nxG3R4IcUu5jWZq0ayOvqRaGrGpQ_DCc/view?usp=drive_link) ㅤㅤㅤ [🍃 API Practice](https://github.com/mccnick) → [ 🎥 ](https://github.com/mccnick)
 
 -->
 
