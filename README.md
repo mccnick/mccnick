@@ -121,6 +121,7 @@ _______
 
 _______
 
+<!--
 ```java
 public class Me {
     private boolean isSmart = true, isCool, isFunny, needsCaffeine, needsSleep, hireable = false;
@@ -170,7 +171,7 @@ private String recursiveHire(int attemptsLeft) {
 
 
 ```
-
+-->
 
 _______
 
