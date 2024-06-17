@@ -68,7 +68,7 @@ Nick notes:
         <img src="https://github.com/mccnick/mccnick/assets/91184284/39fa176d-7377-404f-a094-576038f405fc" alt="Collins Aerospace" width="300" height="200" />
         <br>
          <p align="center"> <b>Software Engineer (Co-Op) </b></p>
-        <p align="center"> 🚀 <i>  Avionics FMS & Controls Team, 2024 </i></p>
+        <p align="center"> 🚀 <i> Avionics FM Application, Nav & Guidance Team, 2024 </i></p>
       </td>
       <td style="text-align: center;">
         <br>
