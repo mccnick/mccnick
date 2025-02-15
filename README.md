@@ -59,24 +59,22 @@ Nick notes:
 
 <div align="center"> <b>Professional Software Engineering Experience:</b> </div>
 <br>
-
-
 <div align="center">
   <table>
     <tr>
-      <td style="text-align: center;">
+      <td style="text-align: center; line-height: 1.2;">
         <br>
         <img src="https://github.com/mccnick/mccnick/assets/91184284/39fa176d-7377-404f-a094-576038f405fc" alt="Collins Aerospace" width="300" height="200" />
-        <br>
-         <p align="center"> <b>Software Engineer Intern, Summer 2025 </b></p>
-        <p align="center"> <i> Military Avionics Performance Software  </i></p>
+        <p align="center"> <b>Software Engineer Intern</b> </p>
+        <p align="center"> <i>Military Avionics Performance Software</i> </p>
+        <p align="center">Summer 2025</p>
       </td>
-      <td style="text-align: center;">
+      <td style="text-align: center; line-height: 1.2;">
         <br>
         <img src="https://github.com/mccnick/mccnick/assets/91184284/39fa176d-7377-404f-a094-576038f405fc" alt="Collins Aerospace" width="300" height="200" />
-        <br> 
-        <p align="center"> <b>Software Engineer, Part-Time 2024-2025 </b> </p>
-         <p align="center"> <i>  Military Avionics & Helicopter Engineering</i></p>
+        <p align="center"> <b>Software Engineer, Part-Time</b> </p>
+        <p align="center"> <i>Military Avionics & Helicopter Engineering</i> </p>
+        <p align="center">2024 - 2025</p>
       </td>
     </tr>
   </table>
@@ -84,23 +82,24 @@ Nick notes:
 <div align="center">
   <table>
     <tr>
-      <td style="text-align: center;">
+      <td style="text-align: center; line-height: 1.2;">
         <br>
         <img src="https://github.com/mccnick/mccnick/assets/91184284/39fa176d-7377-404f-a094-576038f405fc" alt="Collins Aerospace" width="300" height="200" />
-        <br>
-         <p align="center"> <b>Software Engineer Co-Op, Jan 2024</b></p>
-        <p align="center"> <i> Military Avionics GNC Software </i></p>
+        <p align="center"> <b>Software Engineer Co-Op</b> </p>
+        <p align="center"> <i>Military Avionics GNC Software</i> </p>
+        <p align="center">Jan 2024</p>
       </td>
-      <td style="text-align: center;">
+      <td style="text-align: center; line-height: 1.2;">
         <br>
         <img src="https://github.com/mccnick/mccnick/assets/91184284/a57f1900-b33e-43b0-873a-b96a5191298c" alt="John Deere" width="300" height="200"/>
-        <br> 
-        <p align="center"> <b>Software Engineer Intern </b> </p>
-         <p align="center"> <i>  Product Engineering Team, 2022-2023 </i></p>
+        <p align="center"> <b>Software Engineer Intern</b> </p>
+        <p align="center"> <i>Product Engineering Team</i> </p>
+        <p align="center">2022 - 2023</p>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 _______
