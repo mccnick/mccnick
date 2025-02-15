@@ -57,8 +57,9 @@ Nick notes:
 - Image art made using Picsart app -> effects -> Color Gradient -> All 0, then Fade effect is set to 55%
 -->
 
-<div align="center"> <b>Professional Experience:</b> </div>
+<div align="center"> <b>Professional Software Engineering Experience:</b> </div>
 <br>
+
 
 <div align="center">
   <table>
@@ -67,15 +68,35 @@ Nick notes:
         <br>
         <img src="https://github.com/mccnick/mccnick/assets/91184284/39fa176d-7377-404f-a094-576038f405fc" alt="Collins Aerospace" width="300" height="200" />
         <br>
+         <p align="center"> <b>Software Engineer (Intern) </b></p>
+        <p align="center"> <i> Avionics Aircraft Performance, Summer 2025 </i></p>
+      </td>
+      <td style="text-align: center;">
+        <br>
+        <img src="https://github.com/mccnick/mccnick/assets/91184284/39fa176d-7377-404f-a094-576038f405fc" alt="Collins Aerospace" width="300" height="200" />
+        <br> 
+        <p align="center"> <b>Software Engineer (Part-Time) </b> </p>
+         <p align="center"> <i>  Military Helicopter Avionics, 2024-2025 </i></p>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td style="text-align: center;">
+        <br>
+        <img src="https://github.com/mccnick/mccnick/assets/91184284/39fa176d-7377-404f-a094-576038f405fc" alt="Collins Aerospace" width="300" height="200" />
+        <br>
          <p align="center"> <b>Software Engineer (Co-Op) </b></p>
-        <p align="center"> 🚀 <i> Avionics GNC Software, 2024 - Present</i></p>
+        <p align="center"> <i> Avionics GNC Software, 2024 (8 months) </i></p>
       </td>
       <td style="text-align: center;">
         <br>
         <img src="https://github.com/mccnick/mccnick/assets/91184284/a57f1900-b33e-43b0-873a-b96a5191298c" alt="John Deere" width="300" height="200"/>
         <br> 
         <p align="center"> <b>Software Engineer (Intern) </b> </p>
-         <p align="center"> 🚜 <i>  Product Engineering Team, 2022-2023 </i></p>
+         <p align="center"> <i>  Product Engineering Team, 2022-2023 </i></p>
       </td>
     </tr>
   </table>
