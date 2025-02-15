@@ -87,7 +87,7 @@ Nick notes:
         <img src="https://github.com/mccnick/mccnick/assets/91184284/39fa176d-7377-404f-a094-576038f405fc" alt="Collins Aerospace" width="300" height="200" />
         <p align="center"> <b>Software Engineer Co-Op</b> </p>
         <p align="center"> <i>Military Avionics GNC Software</i> </p>
-        <p align="center">Jan 2024</p>
+        <p align="center">Jan 2024 - Aug 2024</p>
       </td>
       <td style="text-align: center; line-height: 1.2;">
         <br>
