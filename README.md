@@ -68,15 +68,15 @@ Nick notes:
         <br>
         <img src="https://github.com/mccnick/mccnick/assets/91184284/39fa176d-7377-404f-a094-576038f405fc" alt="Collins Aerospace" width="300" height="200" />
         <br>
-         <p align="center"> <b>Software Engineer (Intern) </b></p>
-        <p align="center"> <i> Avionics Aircraft Performance, Summer 2025 </i></p>
+         <p align="center"> <b>Software Engineer Intern, Summer 2025 </b></p>
+        <p align="center"> <i> Military Avionics Performance Software  </i></p>
       </td>
       <td style="text-align: center;">
         <br>
         <img src="https://github.com/mccnick/mccnick/assets/91184284/39fa176d-7377-404f-a094-576038f405fc" alt="Collins Aerospace" width="300" height="200" />
         <br> 
-        <p align="center"> <b>Software Engineer (Part-Time) </b> </p>
-         <p align="center"> <i>  Military Helicopter Avionics, 2024-2025 </i></p>
+        <p align="center"> <b>Software Engineer, Part-Time 2024-2025 </b> </p>
+         <p align="center"> <i>  Military Avionics & Helicopter Engineering</i></p>
       </td>
     </tr>
   </table>
@@ -88,14 +88,14 @@ Nick notes:
         <br>
         <img src="https://github.com/mccnick/mccnick/assets/91184284/39fa176d-7377-404f-a094-576038f405fc" alt="Collins Aerospace" width="300" height="200" />
         <br>
-         <p align="center"> <b>Software Engineer (Co-Op) </b></p>
-        <p align="center"> <i> Avionics GNC Software, 2024 (8 months) </i></p>
+         <p align="center"> <b>Software Engineer Co-Op, 8 Months</b></p>
+        <p align="center"> <i> Military Avionics GNC Software </i></p>
       </td>
       <td style="text-align: center;">
         <br>
         <img src="https://github.com/mccnick/mccnick/assets/91184284/a57f1900-b33e-43b0-873a-b96a5191298c" alt="John Deere" width="300" height="200"/>
         <br> 
-        <p align="center"> <b>Software Engineer (Intern) </b> </p>
+        <p align="center"> <b>Software Engineer Intern </b> </p>
          <p align="center"> <i>  Product Engineering Team, 2022-2023 </i></p>
       </td>
     </tr>
