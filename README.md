@@ -99,6 +99,7 @@ Nick notes:
     </tr>
   </table>
 </div>
+<div align="center"> <i>*Collins Aerospace is a subsidiary of RTX Corporation (Raytheon Technologies)</i> </div>
 
 
 
