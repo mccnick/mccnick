@@ -93,7 +93,7 @@ Nick notes:
         <br>
         <img src="https://github.com/mccnick/mccnick/assets/91184284/a57f1900-b33e-43b0-873a-b96a5191298c" alt="John Deere" width="300" height="200"/>
         <p align="center"> <b>Software Engineer Intern</b> </p>
-        <p align="center"> <i>Product Engineering Team</i> </p>
+        <p align="center"> <i>Baler Product Engineering Team</i> </p>
         <p align="center">2022 - 2023</p>
       </td>
     </tr>
