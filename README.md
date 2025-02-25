@@ -11,7 +11,7 @@ _______
 
 <div align="center">
 
-###  ⚡️  [Portfolio](https://mccnick.github.io/) ∙ [Email](mailto:nickmcc@iastate.edu) ∙ [LinkedIn](https://www.linkedin.com/in/mccnick/) ∙ [Certifications](https://github.com/mccnick/certificates)  ⚡️ 
+###  ⚡️  [nickmcc.dev](https://nickmcc.dev) ∙ [Email](mailto:nickmcc@iastate.edu) ∙ [LinkedIn](https://www.linkedin.com/in/mccnick/) ∙ [Certifications](https://github.com/mccnick/certificates)  ⚡️ 
 
 
 </div>
