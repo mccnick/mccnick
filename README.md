@@ -32,11 +32,13 @@ _______
 
 -->
 
+_______
+
 | <center>Full</center> | <center>Stack</center>| <center>Development</center>|
 | :-------------: | :-------------: | :-------------: |
 | 🤖 [**Android App**](https://github.com/mccnick/MovieMagnet) → [ [Awards 🏆](https://drive.google.com/file/d/102cRfdgZHHX7RKtiBY2ifmtN_wIMyMYG/view), [Video 🎥](https://vimeo.com/895602048?share=copy) ]  | 🐬 [**Merchandise Catalog**](https://github.com/mccnick/secoms319_final-project) → [ [Video 🎥](https://vimeo.com/895598404?share=copy) ] | 🍃 [**API Practice**](https://github.com/mccnick/API-practice) → [ [Video 🎥](https://drive.google.com/file/d/1a1esm8EvhYQ_tlZI9EWVY2CphCVgo27o/view?usp=drive_link) ]
 
-
+_______
 
 | 📚 **Relevant Coursework** |👨‍💻 **Software Engineering Projects** | 🚀 **Aerospace Engineering Projects** 
 | :-------------: | :-------------: | :-------------: |
