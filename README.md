@@ -28,7 +28,6 @@ _______
 | [SE491](https://seniord.ece.iastate.edu/syllabus/) | [SE416](https://catalog.iastate.edu/search/?P=SE%204160) | [SE339](https://catalog.iastate.edu/search/?P=SE%203390) | [SE329](https://catalog.iastate.edu/search/?P=SE%203290) | [SE309](https://catalog.iastate.edu/search/?P=SE%203090) | [SE319](https://catalog.iastate.edu/search/?P=SE%203190) | [CPRE288](https://catalog.iastate.edu/search/?P=CPRE%202880) | [AERE161](https://catalog.iastate.edu/search/?P=AERE%201610) | [AERE160](https://catalog.iastate.edu/search/?P=AERE%201600) | [ENGL314](https://catalog.iastate.edu/search/?P=ENGL%203140) | 
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 
-_______
 
 
 <div align="center"> 
@@ -45,7 +44,6 @@ _______
 | 🤖 [**Android App**](https://github.com/mccnick/MovieMagnet) → [ [Awards 🏆](https://drive.google.com/file/d/102cRfdgZHHX7RKtiBY2ifmtN_wIMyMYG/view), [Video 🎥](https://vimeo.com/895602048?share=copy) ]  | 🐬 [**Merchandise Catalog**](https://github.com/mccnick/secoms319_final-project) → [ [Video 🎥](https://vimeo.com/895598404?share=copy) ] | 🍃 [**API Practice**](https://github.com/mccnick/API-practice) → [ [Video 🎥](https://drive.google.com/file/d/1a1esm8EvhYQ_tlZI9EWVY2CphCVgo27o/view?usp=drive_link) ]
 | :-------------: | :-------------: | :-------------: |
 
-_______
 
 
 | 📚 **Relevant Coursework** |👨‍💻 **Software Engineering Projects** | 🚀 **Aerospace Engineering Projects** 
