@@ -21,12 +21,12 @@ _______
 
 <div align="center"> 
 
-#### Leadership 🫡
+#### Engineering Leadership 🫡
 ##### Nick led teams of engineers in the following Iowa State courses:
 
 </div>
 
-| [SE491](https://seniord.ece.iastate.edu/syllabus/) | [SE416](https://catalog.iastate.edu/search/?P=SE%204160) | [SE339](https://catalog.iastate.edu/search/?P=SE%203390) | [SE329](https://catalog.iastate.edu/search/?P=SE%203290) | [SE309](https://catalog.iastate.edu/search/?P=SE%203090) | SE319 | CPRE288 | AERE161 | AERE160 | ENGL314 | 
+| [SE491](https://seniord.ece.iastate.edu/syllabus/) | [SE416](https://catalog.iastate.edu/search/?P=SE%204160) | [SE339](https://catalog.iastate.edu/search/?P=SE%203390) | [SE329](https://catalog.iastate.edu/search/?P=SE%203290) | [SE309](https://catalog.iastate.edu/search/?P=SE%203090) | [SE319](https://catalog.iastate.edu/search/?P=SE%203190) | CPRE288 | AERE161 | AERE160 | ENGL314 | 
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 
 _______
