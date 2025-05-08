@@ -24,7 +24,7 @@ _______
 </br>
 </br>
 
-| [SE491/2](https://seniord.ece.iastate.edu/syllabus/) | [SE416](https://catalog.iastate.edu/search/?P=SE%204160) | [SE339](https://catalog.iastate.edu/search/?P=SE%203390) | [SE329](https://catalog.iastate.edu/search/?P=SE%203290)  | [SE319](https://catalog.iastate.edu/search/?P=SE%203190) | [SE309](https://catalog.iastate.edu/search/?P=SE%203090) |[CPRE288](https://catalog.iastate.edu/search/?P=CPRE%202880) | [AERE161](https://catalog.iastate.edu/search/?P=AERE%201610) | [AERE160](https://catalog.iastate.edu/search/?P=AERE%201600) | [ENGL314](https://catalog.iastate.edu/search/?P=ENGL%203140) |
+| [SE491/492](https://seniord.ece.iastate.edu/syllabus/) | [SE416](https://catalog.iastate.edu/search/?P=SE%204160) | [SE339](https://catalog.iastate.edu/search/?P=SE%203390) | [SE329](https://catalog.iastate.edu/search/?P=SE%203290)  | [SE319](https://catalog.iastate.edu/search/?P=SE%203190) | [SE309](https://catalog.iastate.edu/search/?P=SE%203090) |[CPRE288](https://catalog.iastate.edu/search/?P=CPRE%202880) | [AERE161](https://catalog.iastate.edu/search/?P=AERE%201610) | [AERE160](https://catalog.iastate.edu/search/?P=AERE%201600) | [ENGL314](https://catalog.iastate.edu/search/?P=ENGL%203140) |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 
 
