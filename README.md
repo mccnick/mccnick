@@ -21,7 +21,7 @@ _______
 
 <div align="center"> 
 
-#### Engineering Leadership: Nick led teams of engineers in the following Iowa State courses. Feel free to ask about his experiences!
+#### Engineering Leadership: Nick led team projects in the following Iowa State courses. Feel free to ask about his experiences!
 
 </div>
 
