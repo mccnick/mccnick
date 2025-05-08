@@ -32,7 +32,6 @@ _______
 
 -->
 
-</br>
 
 
 <div align="center"> 🥞 Full-Stack Development 🥞 </div>
