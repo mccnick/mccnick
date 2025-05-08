@@ -21,7 +21,7 @@ _______
 
 <div align="center"> 
 
-#### Engineering Leadership: Nick led team projects in the following Iowa State courses 🫡
+#### Engineering Leadership 🫡 Nick led team projects in the following Iowa State courses:
 
 </div>
 
