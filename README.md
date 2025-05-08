@@ -19,30 +19,21 @@ _______
 
 _______
 
-<div align="center"> 
 
-#### Nick led engineering team projects in the following Iowa State courses:
-
-</div>
-
-| [SE491](https://seniord.ece.iastate.edu/syllabus/) | [SE416](https://catalog.iastate.edu/search/?P=SE%204160) | [SE339](https://catalog.iastate.edu/search/?P=SE%203390) | [SE329](https://catalog.iastate.edu/search/?P=SE%203290) | [SE309](https://catalog.iastate.edu/search/?P=SE%203090) | [SE319](https://catalog.iastate.edu/search/?P=SE%203190) | [CPRE288](https://catalog.iastate.edu/search/?P=CPRE%202880) | [AERE161](https://catalog.iastate.edu/search/?P=AERE%201610) | [AERE160](https://catalog.iastate.edu/search/?P=AERE%201600) | [ENGL314](https://catalog.iastate.edu/search/?P=ENGL%203140) | 
+| <center>Nick</center> | <center>led</center> | <center>engineering</center> | <center>team</center> | <center>projects</center> | <center>in</center> | <center>these</center> | <center>Iowa</center> | <center>State</center> | <center>courses:</center> |
 | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
+| [SE491](https://seniord.ece.iastate.edu/syllabus/) | [SE416](https://catalog.iastate.edu/search/?P=SE%204160) | [SE339](https://catalog.iastate.edu/search/?P=SE%203390) | [SE329](https://catalog.iastate.edu/search/?P=SE%203290) | [SE309](https://catalog.iastate.edu/search/?P=SE%203090) | [SE319](https://catalog.iastate.edu/search/?P=SE%203190) | [CPRE288](https://catalog.iastate.edu/search/?P=CPRE%202880) | [AERE161](https://catalog.iastate.edu/search/?P=AERE%201610) | [AERE160](https://catalog.iastate.edu/search/?P=AERE%201600) | [ENGL314](https://catalog.iastate.edu/search/?P=ENGL%203140) |
 
 
 
-<div align="center"> 
-
-#### Full-Stack 🥞 Development
-
-</div>
   
 <!-- [🤖 Android App](https://github.com/mccnick/MovieMagnet)  ‎‎‎ㅤㅤㅤ [ 🛒 Merch Catalog](https://github.com/mccnick/secoms319_final-project) → [ 🎥 ](https://drive.google.com/file/d/1nxG3R4IcUu5jWZq0ayOvqRaGrGpQ_DCc/view?usp=drive_link) ㅤㅤㅤ [🍃 API Practice](https://github.com/mccnick) → [ 🎥 ](https://github.com/mccnick)
 
 -->
 
-
-| 🤖 [**Android App**](https://github.com/mccnick/MovieMagnet) → [ [Awards 🏆](https://drive.google.com/file/d/102cRfdgZHHX7RKtiBY2ifmtN_wIMyMYG/view), [Video 🎥](https://vimeo.com/895602048?share=copy) ]  | 🐬 [**Merchandise Catalog**](https://github.com/mccnick/secoms319_final-project) → [ [Video 🎥](https://vimeo.com/895598404?share=copy) ] | 🍃 [**API Practice**](https://github.com/mccnick/API-practice) → [ [Video 🎥](https://drive.google.com/file/d/1a1esm8EvhYQ_tlZI9EWVY2CphCVgo27o/view?usp=drive_link) ]
+| <center>Full</center> | <center>Stack</center>| <center>Development</center>|
 | :-------------: | :-------------: | :-------------: |
+| 🤖 [**Android App**](https://github.com/mccnick/MovieMagnet) → [ [Awards 🏆](https://drive.google.com/file/d/102cRfdgZHHX7RKtiBY2ifmtN_wIMyMYG/view), [Video 🎥](https://vimeo.com/895602048?share=copy) ]  | 🐬 [**Merchandise Catalog**](https://github.com/mccnick/secoms319_final-project) → [ [Video 🎥](https://vimeo.com/895598404?share=copy) ] | 🍃 [**API Practice**](https://github.com/mccnick/API-practice) → [ [Video 🎥](https://drive.google.com/file/d/1a1esm8EvhYQ_tlZI9EWVY2CphCVgo27o/view?usp=drive_link) ]
 
 
 
