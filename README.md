@@ -20,10 +20,11 @@ _______
 _______
 
 
-| <center>Nick</center> | <center>led</center> | <center>engineering</center> | <center>team</center> | <center>projects</center> | <center>in</center> | <center>these</center> | <center>Iowa</center> | <center>State</center> | <center>courses:</center> |
-| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
-| [SE491](https://seniord.ece.iastate.edu/syllabus/) | [SE416](https://catalog.iastate.edu/search/?P=SE%204160) | [SE339](https://catalog.iastate.edu/search/?P=SE%203390) | [SE329](https://catalog.iastate.edu/search/?P=SE%203290) | [SE309](https://catalog.iastate.edu/search/?P=SE%203090) | [SE319](https://catalog.iastate.edu/search/?P=SE%203190) | [CPRE288](https://catalog.iastate.edu/search/?P=CPRE%202880) | [AERE161](https://catalog.iastate.edu/search/?P=AERE%201610) | [AERE160](https://catalog.iastate.edu/search/?P=AERE%201600) | [ENGL314](https://catalog.iastate.edu/search/?P=ENGL%203140) |
+<div align="center"> Nick led engineering team projects in the following Iowa State courses: </div>
+</br>
 
+| [SE491](https://seniord.ece.iastate.edu/syllabus/) | [SE416](https://catalog.iastate.edu/search/?P=SE%204160) | [SE339](https://catalog.iastate.edu/search/?P=SE%203390) | [SE329](https://catalog.iastate.edu/search/?P=SE%203290) | [SE309](https://catalog.iastate.edu/search/?P=SE%203090) | [SE319](https://catalog.iastate.edu/search/?P=SE%203190) | [CPRE288](https://catalog.iastate.edu/search/?P=CPRE%202880) | [AERE161](https://catalog.iastate.edu/search/?P=AERE%201610) | [AERE160](https://catalog.iastate.edu/search/?P=AERE%201600) | [ENGL314](https://catalog.iastate.edu/search/?P=ENGL%203140) |
+| :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 
 
   
