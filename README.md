@@ -20,7 +20,7 @@ _______
 _______
 
 
-<div align="center"><i><b> Nick led engineering team projects in the following Iowa State courses: </b></i>
+<div align="center"><i><b> Nick led engineering team projects in the following Iowa State courses. Ask him about them! </b></i>
 </br>
 </br>
 
